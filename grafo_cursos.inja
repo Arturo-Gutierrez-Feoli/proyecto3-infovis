@@ -1,32 +1,99 @@
-{# Plantilla InjaX: red de cursos del plan de estudios #}
+{# Plantilla InjaX: red de cursos del plan de estudios, formato ODViz #}
 
-<svg width="{{width}}" height="{{height}}" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:v="https://odviz.org/1.0/"
+     width="{{width}}" height="{{height}}" viewBox="0 0 {{width}} {{height}}">
+
+  <metadata>
+    {# ---- Tabla 1: nodos (cursos) ---- #}
+    <v:table name="cursos_nodos"
+             description="Cursos del plan de estudios"
+             visualization="graph"
+             columns="sigla,nombre,semestre,creditos,horas,area"
+             primaryKey="sigla">
+      {% for n in nodes %}
+      <v:row id="{{n.row_id}}" hrefs="{{n.circle_id}}, {{n.text_id}}">
+        {{n.csv}}
+      </v:row>
+      {% endfor %}
+    </v:table>
+
+    {# ---- Tabla 2: enlaces (requisitos / correquisitos) ---- #}
+    <v:table name="cursos_enlaces"
+             description="Relaciones de requisito y correquisito entre cursos"
+             columns="id,fuente,destino,tipo">
+      <v:relations>
+        <v:relation target="cursos_nodos" localKey="fuente" foreignKey="id"/>
+        <v:relation target="cursos_nodos" localKey="destino" foreignKey="id"/>
+      </v:relations>
+      {% for e in edges %}
+      <v:row id="{{e.row_id}}" hrefs="{{e.line_id}}">
+        {{e.csv}}
+      </v:row>
+      {% endfor %}
+    </v:table>
+  </metadata>
 
   <defs>
-    <marker id="flecha-req" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#555" />
+    <marker id="flecha-mat" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#4e79a7" />
     </marker>
-    <marker id="flecha-correq" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#e07b39" />
+    <marker id="flecha-fis" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#f28e2b" />
+    </marker>
+    <marker id="flecha-qui" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#e15759" />
+    </marker>
+    <marker id="flecha-pi" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#76b7b2" />
+    </marker>
+    <marker id="flecha-mec" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#59a14f" />
+    </marker>
+    <marker id="flecha-matl" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#edc948" />
+    </marker>
+    <marker id="flecha-comp" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#b07aa1" />
+    </marker>
+    <marker id="flecha-mn" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#ff9da7" />
+    </marker>
+    <marker id="flecha-cs" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#9c755f" />
+    </marker>
+    <marker id="flecha-ci" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#7a7a7a" />
+    </marker>
+    <marker id="flecha-fh" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#86bcb6" />
+    </marker>
+    <marker id="flecha-cult" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#bd6b9e" />
+    </marker>
+    <marker id="flecha-so" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#499894" />
+    </marker>
+    <marker id="flecha-def" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#666666" />
     </marker>
   </defs>
 
   <style>
     .nodo-texto { font-family: sans-serif; font-size: 9px; fill: #fff; text-anchor: middle; font-weight: bold; }
-    .enlace-requisito { stroke: #555; stroke-width: 2; }
-    .enlace-correquisito { stroke: #e07b39; stroke-width: 2; stroke-dasharray: 5,4; }
   </style>
 
+  {# ---- Enlaces visuales: id + href hacia su fila en cursos_enlaces ---- #}
   {% for e in edges %}
-    {% set o = at(nodes, e.source) %}
-    {% set d = at(nodes, e.target) %}
     {% if e.tipo == "correquisito" %}
-      <line class="enlace-correquisito" x1="{{o.x}}" y1="{{o.y}}" x2="{{d.x}}" y2="{{d.y}}" marker-end="url(#flecha-correq)" />
+      <line id="{{e.line_id}}" href="#{{e.row_id}}" x1="{{e.x1}}" y1="{{e.y1}}" x2="{{e.x2}}" y2="{{e.y2}}" stroke="{{e.color}}" stroke-width="3.2" stroke-dasharray="5,4" marker-start="url(#flecha-{{e.clave_color}})" marker-end="url(#flecha-{{e.clave_color}})" />
     {% else %}
-      <line class="enlace-requisito" x1="{{o.x}}" y1="{{o.y}}" x2="{{d.x}}" y2="{{d.y}}" marker-end="url(#flecha-req)" />
+      <line id="{{e.line_id}}" href="#{{e.row_id}}" x1="{{e.x1}}" y1="{{e.y1}}" x2="{{e.x2}}" y2="{{e.y2}}" stroke="{{e.color}}" stroke-width="3.2" marker-end="url(#flecha-{{e.clave_color}})" />
     {% endif %}
   {% endfor %}
 
+  {# ---- Nodos visuales: id + href hacia su fila en cursos_nodos ---- #}
   {% for n in nodes %}
     {% if n.area == "Matemáticas" %}
       {% set color = "#4e79a7" %}
@@ -82,8 +149,8 @@
       {% endif %}
     {% endif %}
     <g class="nodo">
-      <circle cx="{{n.x}}" cy="{{n.y}}" r="{{radio}}" fill="{{color}}" stroke="#222" stroke-width="1" />
-      <text class="nodo-texto" x="{{n.x}}" y="{{n.y + 3}}">{{n.sigla}}</text>
+      <circle id="{{n.circle_id}}" href="#{{n.row_id}}" cx="{{n.x}}" cy="{{n.y}}" r="{{n.radio_nodo}}" fill="{{color}}" stroke="#222" stroke-width="1" />
+      <text id="{{n.text_id}}" href="#{{n.row_id}}" class="nodo-texto" x="{{n.x}}" y="{{n.y + 3}}">{{n.sigla}}</text>
     </g>
   {% endfor %}
 

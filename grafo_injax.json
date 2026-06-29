@@ -7,8 +7,13 @@
       "creditos": 0,
       "horas": 0,
       "area": "Comunicación e Idiomas",
-      "x": 70.0,
-      "y": 55
+      "x": 70,
+      "y": 60,
+      "row_id": "node-0",
+      "circle_id": "circle-0",
+      "text_id": "text-0",
+      "csv": "CI0200,Examen Diagnóstico,0,0,0,Comunicación e Idiomas",
+      "radio_nodo": 14.0
     },
     {
       "sigla": "CI0202",
@@ -17,8 +22,13 @@
       "creditos": 2,
       "horas": 3,
       "area": "Comunicación e Idiomas",
-      "x": 930.0,
-      "y": 55
+      "x": 150,
+      "y": 60,
+      "row_id": "node-1",
+      "circle_id": "circle-1",
+      "text_id": "text-1",
+      "csv": "CI0202,Inglés Básico,0,2,3,Comunicación e Idiomas",
+      "radio_nodo": 20.5
     },
     {
       "sigla": "CI1106",
@@ -28,7 +38,12 @@
       "horas": 6,
       "area": "Comunicación e Idiomas",
       "x": 70.0,
-      "y": 150
+      "y": 210,
+      "row_id": "node-2",
+      "circle_id": "circle-2",
+      "text_id": "text-2",
+      "csv": "CI1106,Comunicación Escrita,1,2,6,Comunicación e Idiomas",
+      "radio_nodo": 20.5
     },
     {
       "sigla": "CI1230",
@@ -38,7 +53,12 @@
       "horas": 6,
       "area": "Comunicación e Idiomas",
       "x": 177.5,
-      "y": 150
+      "y": 210,
+      "row_id": "node-3",
+      "circle_id": "circle-3",
+      "text_id": "text-3",
+      "csv": "CI1230,Inglés I,1,2,6,Comunicación e Idiomas",
+      "radio_nodo": 20.5
     },
     {
       "sigla": "CS1502",
@@ -48,7 +68,12 @@
       "horas": 2,
       "area": "Ciencias Sociales",
       "x": 285.0,
-      "y": 150
+      "y": 210,
+      "row_id": "node-4",
+      "circle_id": "circle-4",
+      "text_id": "text-4",
+      "csv": "CS1502,Introducción a la Técnica Ciencia y Tecnología,1,1,2,Ciencias Sociales",
+      "radio_nodo": 18.6
     },
     {
       "sigla": "MA0101",
@@ -58,7 +83,12 @@
       "horas": 5,
       "area": "Matemáticas",
       "x": 392.5,
-      "y": 150
+      "y": 210,
+      "row_id": "node-5",
+      "circle_id": "circle-5",
+      "text_id": "text-5",
+      "csv": "MA0101,Matemática General,1,2,5,Matemáticas",
+      "radio_nodo": 20.5
     },
     {
       "sigla": "MI2101",
@@ -68,7 +98,12 @@
       "horas": 9,
       "area": "Mecánica y Diseño",
       "x": 500.0,
-      "y": 150
+      "y": 210,
+      "row_id": "node-6",
+      "circle_id": "circle-6",
+      "text_id": "text-6",
+      "csv": "MI2101,Dibujo Técnico,1,3,9,Mecánica y Diseño",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "QU1102",
@@ -78,7 +113,12 @@
       "horas": 2,
       "area": "Química",
       "x": 607.5,
-      "y": 150
+      "y": 182,
+      "row_id": "node-7",
+      "circle_id": "circle-7",
+      "text_id": "text-7",
+      "csv": "QU1102,Laboratorio de Química Básica I,1,1,2,Química",
+      "radio_nodo": 18.6
     },
     {
       "sigla": "QU1106",
@@ -88,7 +128,12 @@
       "horas": 4,
       "area": "Química",
       "x": 715.0,
-      "y": 150
+      "y": 182,
+      "row_id": "node-8",
+      "circle_id": "circle-8",
+      "text_id": "text-8",
+      "csv": "QU1106,Química Básica I,1,3,4,Química",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "SE1100",
@@ -98,7 +143,12 @@
       "horas": 2,
       "area": "Actividades Culturales y Deportivas",
       "x": 822.5,
-      "y": 150
+      "y": 210,
+      "row_id": "node-9",
+      "circle_id": "circle-9",
+      "text_id": "text-9",
+      "csv": "SE1100,Actividad Cultural I,1,0,2,Actividades Culturales y Deportivas",
+      "radio_nodo": 14.0
     },
     {
       "sigla": "SE1200",
@@ -108,7 +158,12 @@
       "horas": 2,
       "area": "Actividades Culturales y Deportivas",
       "x": 930.0,
-      "y": 150
+      "y": 210,
+      "row_id": "node-10",
+      "circle_id": "circle-10",
+      "text_id": "text-10",
+      "csv": "SE1200,Actividad Deportiva I,1,0,2,Actividades Culturales y Deportivas",
+      "radio_nodo": 14.0
     },
     {
       "sigla": "CI1107",
@@ -117,8 +172,13 @@
       "creditos": 1,
       "horas": 3,
       "area": "Comunicación e Idiomas",
-      "x": 392.5,
-      "y": 245
+      "x": 70.0,
+      "y": 360,
+      "row_id": "node-11",
+      "circle_id": "circle-11",
+      "text_id": "text-11",
+      "csv": "CI1107,Comunicación Oral,2,1,3,Comunicación e Idiomas",
+      "radio_nodo": 18.6
     },
     {
       "sigla": "CI1231",
@@ -127,8 +187,13 @@
       "creditos": 2,
       "horas": 3,
       "area": "Comunicación e Idiomas",
-      "x": 70.0,
-      "y": 245
+      "x": 177.5,
+      "y": 360,
+      "row_id": "node-12",
+      "circle_id": "circle-12",
+      "text_id": "text-12",
+      "csv": "CI1231,Inglés II,2,2,3,Comunicación e Idiomas",
+      "radio_nodo": 20.5
     },
     {
       "sigla": "FH1000",
@@ -137,8 +202,13 @@
       "creditos": 0,
       "horas": 2,
       "area": "Formación Humanística",
-      "x": 500.0,
-      "y": 245
+      "x": 285.0,
+      "y": 360,
+      "row_id": "node-13",
+      "circle_id": "circle-13",
+      "text_id": "text-13",
+      "csv": "FH1000,Centros de Formación Humanística,2,0,2,Formación Humanística",
+      "radio_nodo": 14.0
     },
     {
       "sigla": "FI1101",
@@ -148,7 +218,12 @@
       "horas": 4,
       "area": "Física",
       "x": 607.5,
-      "y": 245
+      "y": 332,
+      "row_id": "node-14",
+      "circle_id": "circle-14",
+      "text_id": "text-14",
+      "csv": "FI1101,Física General I,2,3,4,Física",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "FI1201",
@@ -158,7 +233,12 @@
       "horas": 2,
       "area": "Física",
       "x": 715.0,
-      "y": 245
+      "y": 360,
+      "row_id": "node-15",
+      "circle_id": "circle-15",
+      "text_id": "text-15",
+      "csv": "FI1201,Laboratorio Física General I,2,1,2,Física",
+      "radio_nodo": 18.6
     },
     {
       "sigla": "MA1102",
@@ -167,8 +247,13 @@
       "creditos": 4,
       "horas": 5,
       "area": "Matemáticas",
-      "x": 285.0,
-      "y": 245
+      "x": 500.0,
+      "y": 332,
+      "row_id": "node-16",
+      "circle_id": "circle-16",
+      "text_id": "text-16",
+      "csv": "MA1102,Cálculo Diferencial e Integral,2,4,5,Matemáticas",
+      "radio_nodo": 23.2
     },
     {
       "sigla": "PI3501",
@@ -177,8 +262,13 @@
       "creditos": 3,
       "horas": 3,
       "area": "Producción Industrial",
-      "x": 177.5,
-      "y": 245
+      "x": 392.5,
+      "y": 360,
+      "row_id": "node-17",
+      "circle_id": "circle-17",
+      "text_id": "text-17",
+      "csv": "PI3501,Costos Industriales I,2,3,3,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "QU1104",
@@ -187,8 +277,13 @@
       "creditos": 1,
       "horas": 2,
       "area": "Química",
-      "x": 822.5,
-      "y": 245
+      "x": 930.0,
+      "y": 332,
+      "row_id": "node-18",
+      "circle_id": "circle-18",
+      "text_id": "text-18",
+      "csv": "QU1104,Laboratorio de Química Básica II,2,1,2,Química",
+      "radio_nodo": 18.6
     },
     {
       "sigla": "QU1107",
@@ -197,8 +292,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Química",
-      "x": 930.0,
-      "y": 245
+      "x": 822.5,
+      "y": 332,
+      "row_id": "node-19",
+      "circle_id": "circle-19",
+      "text_id": "text-19",
+      "csv": "QU1107,Química Básica II,2,3,4,Química",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "CA2125",
@@ -207,8 +307,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Computación",
-      "x": 500.0,
-      "y": 340
+      "x": 70.0,
+      "y": 510,
+      "row_id": "node-20",
+      "circle_id": "circle-20",
+      "text_id": "text-20",
+      "csv": "CA2125,Elementos de Computación,3,3,4,Computación",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "CS2101",
@@ -217,8 +322,13 @@
       "creditos": 2,
       "horas": 6,
       "area": "Ciencias Sociales",
-      "x": 356.7,
-      "y": 340
+      "x": 213.3,
+      "y": 510,
+      "row_id": "node-21",
+      "circle_id": "circle-21",
+      "text_id": "text-21",
+      "csv": "CS2101,Ambiente Humano,3,2,6,Ciencias Sociales",
+      "radio_nodo": 20.5
     },
     {
       "sigla": "FI1102",
@@ -228,7 +338,12 @@
       "horas": 4,
       "area": "Física",
       "x": 786.7,
-      "y": 340
+      "y": 482,
+      "row_id": "node-22",
+      "circle_id": "circle-22",
+      "text_id": "text-22",
+      "csv": "FI1102,Física General II,3,3,4,Física",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "FI1202",
@@ -238,7 +353,12 @@
       "horas": 2,
       "area": "Física",
       "x": 930.0,
-      "y": 340
+      "y": 482,
+      "row_id": "node-23",
+      "circle_id": "circle-23",
+      "text_id": "text-23",
+      "csv": "FI1202,Laboratorio Física General II,3,1,2,Física",
+      "radio_nodo": 18.6
     },
     {
       "sigla": "MA1103",
@@ -247,8 +367,13 @@
       "creditos": 4,
       "horas": 4,
       "area": "Matemáticas",
-      "x": 213.3,
-      "y": 340
+      "x": 500.0,
+      "y": 510,
+      "row_id": "node-24",
+      "circle_id": "circle-24",
+      "text_id": "text-24",
+      "csv": "MA1103,Cálculo y Álgebra Lineal,3,4,4,Matemáticas",
+      "radio_nodo": 23.2
     },
     {
       "sigla": "PI3502",
@@ -257,8 +382,13 @@
       "creditos": 3,
       "horas": 3,
       "area": "Producción Industrial",
-      "x": 70.0,
-      "y": 340
+      "x": 356.7,
+      "y": 510,
+      "row_id": "node-25",
+      "circle_id": "circle-25",
+      "text_id": "text-25",
+      "csv": "PI3502,Costos Industriales II,3,3,3,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "SE1400",
@@ -268,7 +398,12 @@
       "horas": 2,
       "area": "Actividades Culturales y Deportivas",
       "x": 643.3,
-      "y": 340
+      "y": 510,
+      "row_id": "node-26",
+      "circle_id": "circle-26",
+      "text_id": "text-26",
+      "csv": "SE1400,Actividad Cultural-Deportiva,3,0,2,Actividades Culturales y Deportivas",
+      "radio_nodo": 14.0
     },
     {
       "sigla": "CS2303",
@@ -278,7 +413,12 @@
       "horas": 6,
       "area": "Ciencias Sociales",
       "x": 414.0,
-      "y": 435
+      "y": 660,
+      "row_id": "node-27",
+      "circle_id": "circle-27",
+      "text_id": "text-27",
+      "csv": "CS2303,Relaciones Laborales,4,2,6,Ciencias Sociales",
+      "radio_nodo": 20.5
     },
     {
       "sigla": "FI2103",
@@ -287,8 +427,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Física",
-      "x": 758.0,
-      "y": 435
+      "x": 586.0,
+      "y": 660,
+      "row_id": "node-28",
+      "circle_id": "circle-28",
+      "text_id": "text-28",
+      "csv": "FI2103,Física General III,4,3,4,Física",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "MA2104",
@@ -297,8 +442,13 @@
       "creditos": 4,
       "horas": 4,
       "area": "Matemáticas",
-      "x": 70.0,
-      "y": 435
+      "x": 930.0,
+      "y": 660,
+      "row_id": "node-29",
+      "circle_id": "circle-29",
+      "text_id": "text-29",
+      "csv": "MA2104,Cálculo Superior,4,4,4,Matemáticas",
+      "radio_nodo": 23.2
     },
     {
       "sigla": "MI2109",
@@ -307,8 +457,13 @@
       "creditos": 3,
       "horas": 9,
       "area": "Mecánica y Diseño",
-      "x": 930.0,
-      "y": 435
+      "x": 758.0,
+      "y": 660,
+      "row_id": "node-30",
+      "circle_id": "circle-30",
+      "text_id": "text-30",
+      "csv": "MI2109,Estática,4,3,9,Mecánica y Diseño",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI2304",
@@ -317,8 +472,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 242.0,
-      "y": 435
+      "x": 70.0,
+      "y": 632,
+      "row_id": "node-31",
+      "circle_id": "circle-31",
+      "text_id": "text-31",
+      "csv": "PI2304,Estudio del Trabajo I,4,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI2610",
@@ -327,8 +487,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 586.0,
-      "y": 435
+      "x": 242.0,
+      "y": 632,
+      "row_id": "node-32",
+      "circle_id": "circle-32",
+      "text_id": "text-32",
+      "csv": "PI2610,Probabilidad y Estadística I,4,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "CS3404",
@@ -337,8 +502,13 @@
       "creditos": 2,
       "horas": 5,
       "area": "Ciencias Sociales",
-      "x": 586.0,
-      "y": 530
+      "x": 70.0,
+      "y": 810,
+      "row_id": "node-33",
+      "circle_id": "circle-33",
+      "text_id": "text-33",
+      "csv": "CS3404,Seminario de Ética para la Ingeniería,5,2,5,Ciencias Sociales",
+      "radio_nodo": 20.5
     },
     {
       "sigla": "MA2105",
@@ -347,8 +517,13 @@
       "creditos": 4,
       "horas": 4,
       "area": "Matemáticas",
-      "x": 70.0,
-      "y": 530
+      "x": 414.0,
+      "y": 810,
+      "row_id": "node-34",
+      "circle_id": "circle-34",
+      "text_id": "text-34",
+      "csv": "MA2105,Ecuaciones Diferenciales,5,4,4,Matemáticas",
+      "radio_nodo": 23.2
     },
     {
       "sigla": "MI3138",
@@ -357,8 +532,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Mecánica y Diseño",
-      "x": 930.0,
-      "y": 530
+      "x": 586.0,
+      "y": 810,
+      "row_id": "node-35",
+      "circle_id": "circle-35",
+      "text_id": "text-35",
+      "csv": "MI3138,Máquinas y Equipos,5,3,4,Mecánica y Diseño",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI3308",
@@ -367,8 +547,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 242.0,
-      "y": 530
+      "x": 930.0,
+      "y": 810,
+      "row_id": "node-36",
+      "circle_id": "circle-36",
+      "text_id": "text-36",
+      "csv": "PI3308,Estudio del Trabajo II,5,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI3407",
@@ -377,8 +562,13 @@
       "creditos": 3,
       "horas": 3,
       "area": "Producción Industrial",
-      "x": 414.0,
-      "y": 530
+      "x": 758.0,
+      "y": 810,
+      "row_id": "node-37",
+      "circle_id": "circle-37",
+      "text_id": "text-37",
+      "csv": "PI3407,Computación Industrial,5,3,3,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI3612",
@@ -387,8 +577,13 @@
       "creditos": 3,
       "horas": 9,
       "area": "Producción Industrial",
-      "x": 758.0,
-      "y": 530
+      "x": 242.0,
+      "y": 810,
+      "row_id": "node-38",
+      "circle_id": "circle-38",
+      "text_id": "text-38",
+      "csv": "PI3612,Probabilidad y Estadística II,5,3,9,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "CM3207",
@@ -397,8 +592,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Métodos Numéricos",
-      "x": 242.0,
-      "y": 625
+      "x": 586.0,
+      "y": 960,
+      "row_id": "node-39",
+      "circle_id": "circle-39",
+      "text_id": "text-39",
+      "csv": "CM3207,Métodos Numéricos para Ingeniería,6,3,4,Métodos Numéricos",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "ME2208",
@@ -407,8 +607,13 @@
       "creditos": 3,
       "horas": 3,
       "area": "Materiales",
-      "x": 930.0,
-      "y": 625
+      "x": 70.0,
+      "y": 960,
+      "row_id": "node-40",
+      "circle_id": "circle-40",
+      "text_id": "text-40",
+      "csv": "ME2208,Ciencias de los Materiales,6,3,3,Materiales",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI3206",
@@ -417,8 +622,13 @@
       "creditos": 3,
       "horas": 3,
       "area": "Producción Industrial",
-      "x": 758.0,
-      "y": 625
+      "x": 242.0,
+      "y": 932,
+      "row_id": "node-41",
+      "circle_id": "circle-41",
+      "text_id": "text-41",
+      "csv": "PI3206,Logística y Administración de la Cadena de Abastecimiento,6,3,3,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI3403",
@@ -427,8 +637,13 @@
       "creditos": 3,
       "horas": 3,
       "area": "Producción Industrial",
-      "x": 586.0,
-      "y": 625
+      "x": 758.0,
+      "y": 960,
+      "row_id": "node-42",
+      "circle_id": "circle-42",
+      "text_id": "text-42",
+      "csv": "PI3403,Sistema de Información,6,3,3,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI3512",
@@ -437,8 +652,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 414.0,
-      "y": 625
+      "x": 930.0,
+      "y": 960,
+      "row_id": "node-43",
+      "circle_id": "circle-43",
+      "text_id": "text-43",
+      "csv": "PI3512,Dirección de Personal,6,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI3603",
@@ -447,8 +667,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 70.0,
-      "y": 625
+      "x": 414.0,
+      "y": 932,
+      "row_id": "node-44",
+      "circle_id": "circle-44",
+      "text_id": "text-44",
+      "csv": "PI3603,Investigación de Operaciones I,6,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI4303",
@@ -457,8 +682,13 @@
       "creditos": 4,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 715.0,
-      "y": 720
+      "x": 500.0,
+      "y": 1110,
+      "row_id": "node-45",
+      "circle_id": "circle-45",
+      "text_id": "text-45",
+      "csv": "PI4303,Control de Producción,7,4,4,Producción Industrial",
+      "radio_nodo": 23.2
     },
     {
       "sigla": "PI4306",
@@ -467,8 +697,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 285.0,
-      "y": 720
+      "x": 70.0,
+      "y": 1082,
+      "row_id": "node-46",
+      "circle_id": "circle-46",
+      "text_id": "text-46",
+      "csv": "PI4306,Metrología y Normalización,7,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI4307",
@@ -477,8 +712,13 @@
       "creditos": 4,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 930.0,
-      "y": 720
+      "x": 285.0,
+      "y": 1082,
+      "row_id": "node-47",
+      "circle_id": "circle-47",
+      "text_id": "text-47",
+      "csv": "PI4307,Control de Calidad,7,4,4,Producción Industrial",
+      "radio_nodo": 23.2
     },
     {
       "sigla": "PI4309",
@@ -487,8 +727,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 500.0,
-      "y": 720
+      "x": 715.0,
+      "y": 1110,
+      "row_id": "node-48",
+      "circle_id": "circle-48",
+      "text_id": "text-48",
+      "csv": "PI4309,Planeación y Diseño de Instalaciones,7,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI4505",
@@ -497,8 +742,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 70.0,
-      "y": 720
+      "x": 930.0,
+      "y": 1110,
+      "row_id": "node-49",
+      "circle_id": "circle-49",
+      "text_id": "text-49",
+      "csv": "PI4505,Análisis Económico,7,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "CS4402",
@@ -507,8 +757,13 @@
       "creditos": 2,
       "horas": 3,
       "area": "Ciencias Sociales",
-      "x": 414.0,
-      "y": 815
+      "x": 70.0,
+      "y": 1260,
+      "row_id": "node-50",
+      "circle_id": "circle-50",
+      "text_id": "text-50",
+      "csv": "CS4402,Seminario de Estudios Costarricenses,8,2,3,Ciencias Sociales",
+      "radio_nodo": 20.5
     },
     {
       "sigla": "PI4308",
@@ -517,8 +772,13 @@
       "creditos": 3,
       "horas": 3,
       "area": "Producción Industrial",
-      "x": 758.0,
-      "y": 815
+      "x": 414.0,
+      "y": 1260,
+      "row_id": "node-51",
+      "circle_id": "circle-51",
+      "text_id": "text-51",
+      "csv": "PI4308,Electiva I,8,3,3,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI4802",
@@ -527,8 +787,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 586.0,
-      "y": 815
+      "x": 242.0,
+      "y": 1260,
+      "row_id": "node-52",
+      "circle_id": "circle-52",
+      "text_id": "text-52",
+      "csv": "PI4802,Administración de Proyectos,8,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI4803",
@@ -537,8 +802,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 242.0,
-      "y": 815
+      "x": 758.0,
+      "y": 1260,
+      "row_id": "node-53",
+      "circle_id": "circle-53",
+      "text_id": "text-53",
+      "csv": "PI4803,Gestión de la Innovación,8,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI5707",
@@ -547,8 +817,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 930.0,
-      "y": 815
+      "x": 586.0,
+      "y": 1260,
+      "row_id": "node-54",
+      "circle_id": "circle-54",
+      "text_id": "text-54",
+      "csv": "PI5707,Ingeniería de la Confiabilidad,8,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "SO4604",
@@ -557,8 +832,13 @@
       "creditos": 3,
       "horas": 3,
       "area": "Seguridad Ocupacional",
-      "x": 70.0,
-      "y": 815
+      "x": 930.0,
+      "y": 1260,
+      "row_id": "node-55",
+      "circle_id": "circle-55",
+      "text_id": "text-55",
+      "csv": "SO4604,Seguridad y Salud Ocupacional,8,3,3,Seguridad Ocupacional",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI5302",
@@ -567,8 +847,13 @@
       "creditos": 4,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 930.0,
-      "y": 910
+      "x": 500.0,
+      "y": 1410,
+      "row_id": "node-56",
+      "circle_id": "circle-56",
+      "text_id": "text-56",
+      "csv": "PI5302,Diseño de Experimentos,9,4,4,Producción Industrial",
+      "radio_nodo": 23.2
     },
     {
       "sigla": "PI5303",
@@ -577,8 +862,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 500.0,
-      "y": 910
+      "x": 285.0,
+      "y": 1410,
+      "row_id": "node-57",
+      "circle_id": "circle-57",
+      "text_id": "text-57",
+      "csv": "PI5303,Electiva II,9,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI5401",
@@ -588,7 +878,12 @@
       "horas": 4,
       "area": "Producción Industrial",
       "x": 715.0,
-      "y": 910
+      "y": 1410,
+      "row_id": "node-58",
+      "circle_id": "circle-58",
+      "text_id": "text-58",
+      "csv": "PI5401,Simulación Industrial,9,4,4,Producción Industrial",
+      "radio_nodo": 23.2
     },
     {
       "sigla": "PI5402",
@@ -597,8 +892,13 @@
       "creditos": 4,
       "horas": 3,
       "area": "Producción Industrial",
-      "x": 70.0,
-      "y": 910
+      "x": 930.0,
+      "y": 1410,
+      "row_id": "node-59",
+      "circle_id": "circle-59",
+      "text_id": "text-59",
+      "csv": "PI5402,Automatización de Manufactura,9,4,3,Producción Industrial",
+      "radio_nodo": 23.2
     },
     {
       "sigla": "PI5601",
@@ -607,8 +907,13 @@
       "creditos": 3,
       "horas": 4,
       "area": "Producción Industrial",
-      "x": 285.0,
-      "y": 910
+      "x": 70.0,
+      "y": 1410,
+      "row_id": "node-60",
+      "circle_id": "circle-60",
+      "text_id": "text-60",
+      "csv": "PI5601,Diagnóstico Industrial,9,3,4,Producción Industrial",
+      "radio_nodo": 22.0
     },
     {
       "sigla": "PI5901",
@@ -618,448 +923,1138 @@
       "horas": 40,
       "area": "Producción Industrial",
       "x": 500.0,
-      "y": 1005
+      "y": 1560,
+      "row_id": "node-61",
+      "circle_id": "circle-61",
+      "text_id": "text-61",
+      "csv": "PI5901,Proyecto de Graduación,10,12,40,Producción Industrial",
+      "radio_nodo": 30.0
     }
   ],
   "edges": [
     {
       "source": 0,
       "target": 3,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 78.16,
+      "y1": 71.38,
+      "x2": 165.56,
+      "y2": 193.34,
+      "color": "#7a7a7a",
+      "clave_color": "ci",
+      "row_id": "edge-0",
+      "line_id": "line-0",
+      "csv": "edge-0,node-0,node-3,requisito"
     },
     {
       "source": 1,
       "target": 3,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 153.7,
+      "y1": 80.16,
+      "x2": 173.8,
+      "y2": 189.84,
+      "color": "#7a7a7a",
+      "clave_color": "ci",
+      "row_id": "edge-1",
+      "line_id": "line-1",
+      "csv": "edge-1,node-1,node-3,requisito"
     },
     {
       "source": 3,
       "target": 12,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 177.5,
+      "y1": 230.5,
+      "x2": 177.5,
+      "y2": 339.5,
+      "color": "#7a7a7a",
+      "clave_color": "ci",
+      "row_id": "edge-2",
+      "line_id": "line-2",
+      "csv": "edge-2,node-3,node-12,requisito"
     },
     {
       "source": 11,
       "target": 21,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 82.85,
+      "y1": 373.45,
+      "x2": 199.14,
+      "y2": 495.18,
+      "color": "#7a7a7a",
+      "clave_color": "ci",
+      "row_id": "edge-3",
+      "line_id": "line-3",
+      "csv": "edge-3,node-11,node-21,requisito"
     },
     {
       "source": 14,
       "target": 22,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 624.37,
+      "y1": 346.12,
+      "x2": 769.83,
+      "y2": 467.88,
+      "color": "#f28e2b",
+      "clave_color": "fis",
+      "row_id": "edge-4",
+      "line_id": "line-4",
+      "csv": "edge-4,node-14,node-22,requisito"
     },
     {
       "source": 15,
       "target": 22,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 724.42,
+      "y1": 376.04,
+      "x2": 775.55,
+      "y2": 463.03,
+      "color": "#f28e2b",
+      "clave_color": "fis",
+      "row_id": "edge-5",
+      "line_id": "line-5",
+      "csv": "edge-5,node-15,node-22,requisito"
     },
     {
       "source": 16,
       "target": 22,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 520.56,
+      "y1": 342.76,
+      "x2": 767.21,
+      "y2": 471.8,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-6",
+      "line_id": "line-6",
+      "csv": "edge-6,node-16,node-22,requisito"
     },
     {
       "source": 22,
       "target": 23,
-      "tipo": "correquisito"
+      "tipo": "correquisito",
+      "x1": 808.7,
+      "y1": 482.0,
+      "x2": 911.4,
+      "y2": 482.0,
+      "color": "#f28e2b",
+      "clave_color": "fis",
+      "row_id": "edge-7",
+      "line_id": "line-7",
+      "csv": "edge-7,node-22,node-23,correquisito"
     },
     {
       "source": 15,
       "target": 23,
-      "tipo": "requisito"
-    },
-    {
-      "source": 23,
-      "target": 22,
-      "tipo": "correquisito"
+      "tipo": "requisito",
+      "x1": 731.18,
+      "y1": 369.18,
+      "x2": 913.82,
+      "y2": 472.82,
+      "color": "#f28e2b",
+      "clave_color": "fis",
+      "row_id": "edge-8",
+      "line_id": "line-8",
+      "csv": "edge-8,node-15,node-23,requisito"
     },
     {
       "source": 14,
       "target": 16,
-      "tipo": "correquisito"
-    },
-    {
-      "source": 16,
-      "target": 14,
-      "tipo": "correquisito"
+      "tipo": "correquisito",
+      "x1": 585.5,
+      "y1": 332.0,
+      "x2": 523.2,
+      "y2": 332.0,
+      "color": "#f28e2b",
+      "clave_color": "fis",
+      "row_id": "edge-9",
+      "line_id": "line-9",
+      "csv": "edge-9,node-14,node-16,correquisito"
     },
     {
       "source": 5,
       "target": 16,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 406.05,
+      "y1": 225.38,
+      "x2": 484.66,
+      "y2": 314.59,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-10",
+      "line_id": "line-10",
+      "csv": "edge-10,node-5,node-16,requisito"
     },
     {
       "source": 4,
       "target": 17,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 295.83,
+      "y1": 225.12,
+      "x2": 379.68,
+      "y2": 342.12,
+      "color": "#9c755f",
+      "clave_color": "cs",
+      "row_id": "edge-11",
+      "line_id": "line-11",
+      "csv": "edge-11,node-4,node-17,requisito"
     },
     {
       "source": 5,
       "target": 17,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 392.5,
+      "y1": 230.5,
+      "x2": 392.5,
+      "y2": 338.0,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-12",
+      "line_id": "line-12",
+      "csv": "edge-12,node-5,node-17,requisito"
     },
     {
       "source": 7,
       "target": 19,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 622.75,
+      "y1": 192.64,
+      "x2": 804.46,
+      "y2": 319.41,
+      "color": "#e15759",
+      "clave_color": "qui",
+      "row_id": "edge-13",
+      "line_id": "line-13",
+      "csv": "edge-13,node-7,node-19,requisito"
     },
     {
       "source": 8,
       "target": 19,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 727.82,
+      "y1": 199.88,
+      "x2": 809.68,
+      "y2": 314.12,
+      "color": "#e15759",
+      "clave_color": "qui",
+      "row_id": "edge-14",
+      "line_id": "line-14",
+      "csv": "edge-14,node-8,node-19,requisito"
     },
     {
       "source": 19,
       "target": 18,
-      "tipo": "correquisito"
-    },
-    {
-      "source": 18,
-      "target": 19,
-      "tipo": "correquisito"
+      "tipo": "correquisito",
+      "x1": 844.5,
+      "y1": 332.0,
+      "x2": 911.4,
+      "y2": 332.0,
+      "color": "#e15759",
+      "clave_color": "qui",
+      "row_id": "edge-15",
+      "line_id": "line-15",
+      "csv": "edge-15,node-19,node-18,correquisito"
     },
     {
       "source": 8,
       "target": 7,
-      "tipo": "correquisito"
-    },
-    {
-      "source": 7,
-      "target": 8,
-      "tipo": "correquisito"
+      "tipo": "correquisito",
+      "x1": 693.0,
+      "y1": 182.0,
+      "x2": 626.1,
+      "y2": 182.0,
+      "color": "#e15759",
+      "clave_color": "qui",
+      "row_id": "edge-16",
+      "line_id": "line-16",
+      "csv": "edge-16,node-8,node-7,correquisito"
     },
     {
       "source": 16,
       "target": 24,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 500.0,
+      "y1": 355.2,
+      "x2": 500.0,
+      "y2": 486.8,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-17",
+      "line_id": "line-17",
+      "csv": "edge-17,node-16,node-24,requisito"
     },
     {
       "source": 17,
       "target": 25,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 387.39,
+      "y1": 381.4,
+      "x2": 361.81,
+      "y2": 488.6,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-18",
+      "line_id": "line-18",
+      "csv": "edge-18,node-17,node-25,requisito"
     },
     {
       "source": 11,
       "target": 21,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 82.85,
+      "y1": 373.45,
+      "x2": 199.14,
+      "y2": 495.18,
+      "color": "#7a7a7a",
+      "clave_color": "ci",
+      "row_id": "edge-19",
+      "line_id": "line-19",
+      "csv": "edge-19,node-11,node-21,requisito"
     },
     {
       "source": 21,
       "target": 27,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 229.72,
+      "y1": 522.27,
+      "x2": 397.58,
+      "y2": 647.73,
+      "color": "#9c755f",
+      "clave_color": "cs",
+      "row_id": "edge-20",
+      "line_id": "line-20",
+      "csv": "edge-20,node-21,node-27,requisito"
     },
     {
       "source": 14,
       "target": 28,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 606.06,
+      "y1": 353.95,
+      "x2": 587.44,
+      "y2": 638.05,
+      "color": "#f28e2b",
+      "clave_color": "fis",
+      "row_id": "edge-21",
+      "line_id": "line-21",
+      "csv": "edge-21,node-14,node-28,requisito"
     },
     {
       "source": 16,
       "target": 28,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 505.88,
+      "y1": 354.44,
+      "x2": 580.42,
+      "y2": 638.72,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-22",
+      "line_id": "line-22",
+      "csv": "edge-22,node-16,node-28,requisito"
     },
     {
       "source": 24,
       "target": 29,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 521.91,
+      "y1": 517.64,
+      "x2": 908.09,
+      "y2": 652.36,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-23",
+      "line_id": "line-23",
+      "csv": "edge-23,node-24,node-29,requisito"
     },
     {
       "source": 14,
       "target": 30,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 616.67,
+      "y1": 352.0,
+      "x2": 748.83,
+      "y2": 640.0,
+      "color": "#f28e2b",
+      "clave_color": "fis",
+      "row_id": "edge-24",
+      "line_id": "line-24",
+      "csv": "edge-24,node-14,node-30,requisito"
     },
     {
       "source": 15,
       "target": 30,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 717.64,
+      "y1": 378.41,
+      "x2": 754.88,
+      "y2": 638.22,
+      "color": "#f28e2b",
+      "clave_color": "fis",
+      "row_id": "edge-25",
+      "line_id": "line-25",
+      "csv": "edge-25,node-15,node-30,requisito"
     },
     {
       "source": 6,
       "target": 31,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 484.3,
+      "y1": 225.41,
+      "x2": 85.7,
+      "y2": 616.59,
+      "color": "#59a14f",
+      "clave_color": "mec",
+      "row_id": "edge-26",
+      "line_id": "line-26",
+      "csv": "edge-26,node-6,node-31,requisito"
     },
     {
       "source": 17,
       "target": 31,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 375.68,
+      "y1": 374.18,
+      "x2": 86.82,
+      "y2": 617.82,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-27",
+      "line_id": "line-27",
+      "csv": "edge-27,node-17,node-31,requisito"
     },
     {
       "source": 31,
       "target": 32,
-      "tipo": "correquisito"
+      "tipo": "correquisito",
+      "x1": 92.0,
+      "y1": 632.0,
+      "x2": 220.0,
+      "y2": 632.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-28",
+      "line_id": "line-28",
+      "csv": "edge-28,node-31,node-32,correquisito"
     },
     {
       "source": 20,
       "target": 32,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 87.94,
+      "y1": 522.73,
+      "x2": 224.06,
+      "y2": 619.27,
+      "color": "#b07aa1",
+      "clave_color": "comp",
+      "row_id": "edge-29",
+      "line_id": "line-29",
+      "csv": "edge-29,node-20,node-32,requisito"
     },
     {
       "source": 16,
       "target": 32,
-      "tipo": "requisito"
-    },
-    {
-      "source": 32,
-      "target": 31,
-      "tipo": "correquisito"
+      "tipo": "requisito",
+      "x1": 484.87,
+      "y1": 349.59,
+      "x2": 256.34,
+      "y2": 615.32,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-30",
+      "line_id": "line-30",
+      "csv": "edge-30,node-16,node-32,requisito"
     },
     {
       "source": 21,
       "target": 33,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 204.46,
+      "y1": 528.5,
+      "x2": 78.84,
+      "y2": 791.5,
+      "color": "#9c755f",
+      "clave_color": "cs",
+      "row_id": "edge-31",
+      "line_id": "line-31",
+      "csv": "edge-31,node-21,node-33,requisito"
     },
     {
       "source": 24,
       "target": 34,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 493.61,
+      "y1": 532.3,
+      "x2": 420.39,
+      "y2": 787.7,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-32",
+      "line_id": "line-32",
+      "csv": "edge-32,node-24,node-34,requisito"
     },
     {
       "source": 30,
       "target": 35,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 741.42,
+      "y1": 674.46,
+      "x2": 602.58,
+      "y2": 795.54,
+      "color": "#59a14f",
+      "clave_color": "mec",
+      "row_id": "edge-33",
+      "line_id": "line-33",
+      "csv": "edge-33,node-30,node-35,requisito"
     },
     {
       "source": 31,
       "target": 36,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 91.54,
+      "y1": 636.46,
+      "x2": 908.46,
+      "y2": 805.54,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-34",
+      "line_id": "line-34",
+      "csv": "edge-34,node-31,node-36,requisito"
     },
     {
       "source": 20,
       "target": 37,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 90.17,
+      "y1": 518.79,
+      "x2": 737.83,
+      "y2": 801.21,
+      "color": "#b07aa1",
+      "clave_color": "comp",
+      "row_id": "edge-35",
+      "line_id": "line-35",
+      "csv": "edge-35,node-20,node-37,requisito"
     },
     {
       "source": 12,
       "target": 37,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 193.7,
+      "y1": 372.56,
+      "x2": 740.61,
+      "y2": 796.52,
+      "color": "#7a7a7a",
+      "clave_color": "ci",
+      "row_id": "edge-36",
+      "line_id": "line-36",
+      "csv": "edge-36,node-12,node-37,requisito"
     },
     {
       "source": 24,
       "target": 38,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 484.87,
+      "y1": 527.59,
+      "x2": 256.34,
+      "y2": 793.32,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-37",
+      "line_id": "line-37",
+      "csv": "edge-37,node-24,node-38,requisito"
     },
     {
       "source": 32,
       "target": 38,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 242.0,
+      "y1": 654.0,
+      "x2": 242.0,
+      "y2": 788.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-38",
+      "line_id": "line-38",
+      "csv": "edge-38,node-32,node-38,requisito"
     },
     {
       "source": 34,
       "target": 39,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 431.48,
+      "y1": 825.25,
+      "x2": 569.42,
+      "y2": 945.54,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-39",
+      "line_id": "line-39",
+      "csv": "edge-39,node-34,node-39,requisito"
     },
     {
       "source": 37,
       "target": 39,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 741.42,
+      "y1": 824.46,
+      "x2": 602.58,
+      "y2": 945.54,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-40",
+      "line_id": "line-40",
+      "csv": "edge-40,node-37,node-39,requisito"
     },
     {
       "source": 22,
       "target": 40,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 768.4,
+      "y1": 494.21,
+      "x2": 88.3,
+      "y2": 947.79,
+      "color": "#f28e2b",
+      "clave_color": "fis",
+      "row_id": "edge-41",
+      "line_id": "line-41",
+      "csv": "edge-41,node-22,node-40,requisito"
     },
     {
       "source": 19,
       "target": 40,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 805.61,
+      "y1": 346.1,
+      "x2": 86.89,
+      "y2": 945.9,
+      "color": "#e15759",
+      "clave_color": "qui",
+      "row_id": "edge-42",
+      "line_id": "line-42",
+      "csv": "edge-42,node-19,node-40,requisito"
     },
     {
       "source": 38,
       "target": 41,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 242.0,
+      "y1": 832.0,
+      "x2": 242.0,
+      "y2": 910.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-43",
+      "line_id": "line-43",
+      "csv": "edge-43,node-38,node-41,requisito"
     },
     {
       "source": 41,
       "target": 44,
-      "tipo": "correquisito"
+      "tipo": "correquisito",
+      "x1": 264.0,
+      "y1": 932.0,
+      "x2": 392.0,
+      "y2": 932.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-44",
+      "line_id": "line-44",
+      "csv": "edge-44,node-41,node-44,correquisito"
     },
     {
       "source": 37,
       "target": 42,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 758.0,
+      "y1": 832.0,
+      "x2": 758.0,
+      "y2": 938.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-45",
+      "line_id": "line-45",
+      "csv": "edge-45,node-37,node-42,requisito"
     },
     {
       "source": 27,
       "target": 43,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 431.72,
+      "y1": 670.3,
+      "x2": 910.98,
+      "y2": 948.94,
+      "color": "#9c755f",
+      "clave_color": "cs",
+      "row_id": "edge-46",
+      "line_id": "line-46",
+      "csv": "edge-46,node-27,node-43,requisito"
     },
     {
       "source": 36,
       "target": 43,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 930.0,
+      "y1": 832.0,
+      "x2": 930.0,
+      "y2": 938.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-47",
+      "line_id": "line-47",
+      "csv": "edge-47,node-36,node-43,requisito"
     },
     {
       "source": 34,
       "target": 44,
-      "tipo": "requisito"
-    },
-    {
-      "source": 44,
-      "target": 41,
-      "tipo": "correquisito"
+      "tipo": "requisito",
+      "x1": 414.0,
+      "y1": 833.2,
+      "x2": 414.0,
+      "y2": 910.0,
+      "color": "#4e79a7",
+      "clave_color": "mat",
+      "row_id": "edge-48",
+      "line_id": "line-48",
+      "csv": "edge-48,node-34,node-44,requisito"
     },
     {
       "source": 41,
       "target": 45,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 260.11,
+      "y1": 944.49,
+      "x2": 480.9,
+      "y2": 1096.83,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-49",
+      "line_id": "line-49",
+      "csv": "edge-49,node-41,node-45,requisito"
     },
     {
       "source": 44,
       "target": 45,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 423.57,
+      "y1": 951.81,
+      "x2": 489.91,
+      "y2": 1089.11,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-50",
+      "line_id": "line-50",
+      "csv": "edge-50,node-44,node-45,requisito"
     },
     {
       "source": 36,
       "target": 46,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 909.02,
+      "y1": 816.63,
+      "x2": 90.98,
+      "y2": 1075.37,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-51",
+      "line_id": "line-51",
+      "csv": "edge-51,node-36,node-46,requisito"
     },
     {
       "source": 46,
       "target": 47,
-      "tipo": "correquisito"
+      "tipo": "correquisito",
+      "x1": 92.0,
+      "y1": 1082.0,
+      "x2": 261.8,
+      "y2": 1082.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-52",
+      "line_id": "line-52",
+      "csv": "edge-52,node-46,node-47,correquisito"
     },
     {
       "source": 38,
       "target": 47,
-      "tipo": "requisito"
-    },
-    {
-      "source": 47,
-      "target": 46,
-      "tipo": "correquisito"
+      "tipo": "requisito",
+      "x1": 245.44,
+      "y1": 831.73,
+      "x2": 281.38,
+      "y2": 1059.08,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-53",
+      "line_id": "line-53",
+      "csv": "edge-53,node-38,node-47,requisito"
     },
     {
       "source": 36,
       "target": 48,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 917.18,
+      "y1": 827.88,
+      "x2": 727.82,
+      "y2": 1092.12,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-54",
+      "line_id": "line-54",
+      "csv": "edge-54,node-36,node-48,requisito"
     },
     {
       "source": 36,
       "target": 49,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 930.0,
+      "y1": 832.0,
+      "x2": 930.0,
+      "y2": 1088.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-55",
+      "line_id": "line-55",
+      "csv": "edge-55,node-36,node-49,requisito"
     },
     {
       "source": 25,
       "target": 49,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 371.9,
+      "y1": 525.91,
+      "x2": 914.8,
+      "y2": 1094.09,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-56",
+      "line_id": "line-56",
+      "csv": "edge-56,node-25,node-49,requisito"
     },
     {
       "source": 33,
       "target": 50,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 70.0,
+      "y1": 830.5,
+      "x2": 70.0,
+      "y2": 1239.5,
+      "color": "#9c755f",
+      "clave_color": "cs",
+      "row_id": "edge-57",
+      "line_id": "line-57",
+      "csv": "edge-57,node-33,node-50,requisito"
     },
     {
       "source": 45,
       "target": 51,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 488.46,
+      "y1": 1130.13,
+      "x2": 424.94,
+      "y2": 1240.91,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-58",
+      "line_id": "line-58",
+      "csv": "edge-58,node-45,node-51,requisito"
     },
     {
       "source": 47,
       "target": 51,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 298.61,
+      "y1": 1100.79,
+      "x2": 401.09,
+      "y2": 1242.19,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-59",
+      "line_id": "line-59",
+      "csv": "edge-59,node-47,node-51,requisito"
     },
     {
       "source": 45,
       "target": 52,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 479.94,
+      "y1": 1121.66,
+      "x2": 261.02,
+      "y2": 1248.94,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-60",
+      "line_id": "line-60",
+      "csv": "edge-60,node-45,node-52,requisito"
     },
     {
       "source": 43,
       "target": 53,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 919.06,
+      "y1": 979.09,
+      "x2": 768.94,
+      "y2": 1240.91,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-61",
+      "line_id": "line-61",
+      "csv": "edge-61,node-43,node-53,requisito"
     },
     {
       "source": 47,
       "target": 54,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 304.97,
+      "y1": 1093.81,
+      "x2": 567.06,
+      "y2": 1248.8,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-62",
+      "line_id": "line-62",
+      "csv": "edge-62,node-47,node-54,requisito"
     },
     {
       "source": 36,
       "target": 55,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 930.0,
+      "y1": 832.0,
+      "x2": 930.0,
+      "y2": 1238.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-63",
+      "line_id": "line-63",
+      "csv": "edge-63,node-36,node-55,requisito"
     },
     {
       "source": 54,
       "target": 56,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 575.06,
+      "y1": 1279.09,
+      "x2": 511.54,
+      "y2": 1389.87,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-64",
+      "line_id": "line-64",
+      "csv": "edge-64,node-54,node-56,requisito"
     },
     {
       "source": 51,
       "target": 57,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 399.66,
+      "y1": 1276.68,
+      "x2": 299.34,
+      "y2": 1393.32,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-65",
+      "line_id": "line-65",
+      "csv": "edge-65,node-51,node-57,requisito"
     },
     {
       "source": 41,
       "target": 58,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 257.47,
+      "y1": 947.64,
+      "x2": 698.68,
+      "y2": 1393.51,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-66",
+      "line_id": "line-66",
+      "csv": "edge-66,node-41,node-58,requisito"
     },
     {
       "source": 54,
       "target": 58,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 600.34,
+      "y1": 1276.68,
+      "x2": 699.87,
+      "y2": 1392.41,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-67",
+      "line_id": "line-67",
+      "csv": "edge-67,node-54,node-58,requisito"
     },
     {
       "source": 35,
       "target": 59,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 596.94,
+      "y1": 829.09,
+      "x2": 918.46,
+      "y2": 1389.87,
+      "color": "#59a14f",
+      "clave_color": "mec",
+      "row_id": "edge-68",
+      "line_id": "line-68",
+      "csv": "edge-68,node-35,node-59,requisito"
     },
     {
       "source": 46,
       "target": 59,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 90.56,
+      "y1": 1089.84,
+      "x2": 908.32,
+      "y2": 1401.73,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-69",
+      "line_id": "line-69",
+      "csv": "edge-69,node-46,node-59,requisito"
     },
     {
       "source": 45,
       "target": 60,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 480.97,
+      "y1": 1123.27,
+      "x2": 88.04,
+      "y2": 1397.41,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-70",
+      "line_id": "line-70",
+      "csv": "edge-70,node-45,node-60,requisito"
     },
     {
       "source": 52,
       "target": 60,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 225.42,
+      "y1": 1274.46,
+      "x2": 86.58,
+      "y2": 1395.54,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-71",
+      "line_id": "line-71",
+      "csv": "edge-71,node-52,node-60,requisito"
     },
     {
       "source": 50,
       "target": 61,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 86.81,
+      "y1": 1271.73,
+      "x2": 475.4,
+      "y2": 1542.83,
+      "color": "#9c755f",
+      "clave_color": "cs",
+      "row_id": "edge-72",
+      "line_id": "line-72",
+      "csv": "edge-72,node-50,node-61,requisito"
     },
     {
       "source": 51,
       "target": 61,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 420.06,
+      "y1": 1281.15,
+      "x2": 491.73,
+      "y2": 1531.16,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-73",
+      "line_id": "line-73",
+      "csv": "edge-73,node-51,node-61,requisito"
     },
     {
       "source": 56,
       "target": 61,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 500.0,
+      "y1": 1433.2,
+      "x2": 500.0,
+      "y2": 1530.0,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-74",
+      "line_id": "line-74",
+      "csv": "edge-74,node-56,node-61,requisito"
     },
     {
       "source": 57,
       "target": 61,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 303.04,
+      "y1": 1422.59,
+      "x2": 475.4,
+      "y2": 1542.83,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-75",
+      "line_id": "line-75",
+      "csv": "edge-75,node-57,node-61,requisito"
     },
     {
       "source": 58,
       "target": 61,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 695.97,
+      "y1": 1423.27,
+      "x2": 524.6,
+      "y2": 1542.83,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-76",
+      "line_id": "line-76",
+      "csv": "edge-76,node-58,node-61,requisito"
     },
     {
       "source": 59,
       "target": 61,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 908.09,
+      "y1": 1417.64,
+      "x2": 528.33,
+      "y2": 1550.12,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-77",
+      "line_id": "line-77",
+      "csv": "edge-77,node-59,node-61,requisito"
     },
     {
       "source": 60,
       "target": 61,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 90.77,
+      "y1": 1417.25,
+      "x2": 471.67,
+      "y2": 1550.12,
+      "color": "#76b7b2",
+      "clave_color": "pi",
+      "row_id": "edge-78",
+      "line_id": "line-78",
+      "csv": "edge-78,node-60,node-61,requisito"
     },
     {
       "source": 55,
       "target": 61,
-      "tipo": "requisito"
+      "tipo": "requisito",
+      "x1": 911.96,
+      "y1": 1272.59,
+      "x2": 524.6,
+      "y2": 1542.83,
+      "color": "#499894",
+      "clave_color": "so",
+      "row_id": "edge-79",
+      "line_id": "line-79",
+      "csv": "edge-79,node-55,node-61,requisito"
     }
   ],
   "directed": true,
   "width": 1000,
-  "height": 1060,
-  "radio": 18
+  "height": 1620,
+  "radio": 22
 }
