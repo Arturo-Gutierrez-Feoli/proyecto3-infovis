@@ -1,0 +1,830 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:v="https://odviz.org/1.0/"
+     width="1000" height="1620" viewBox="0 0 1000 1620">
+
+  <metadata>
+    <v:table name="cursos_nodos"
+             description="Cursos del plan de estudios"
+             visualization="graph"
+             columns="sigla,nombre,semestre,creditos,horas,area"
+             primaryKey="sigla">
+      <v:row id="node-0" hrefs="circle-0, text-0">
+        CI0200,Examen Diagnóstico,0,0,0,Comunicación e Idiomas
+      </v:row>
+      <v:row id="node-1" hrefs="circle-1, text-1">
+        CI0202,Inglés Básico,0,2,3,Comunicación e Idiomas
+      </v:row>
+      <v:row id="node-2" hrefs="circle-2, text-2">
+        CI1106,Comunicación Escrita,1,2,6,Comunicación e Idiomas
+      </v:row>
+      <v:row id="node-3" hrefs="circle-3, text-3">
+        CI1230,Inglés I,1,2,6,Comunicación e Idiomas
+      </v:row>
+      <v:row id="node-4" hrefs="circle-4, text-4">
+        CS1502,Introducción a la Técnica Ciencia y Tecnología,1,1,2,Ciencias Sociales
+      </v:row>
+      <v:row id="node-5" hrefs="circle-5, text-5">
+        MA0101,Matemática General,1,2,5,Matemáticas
+      </v:row>
+      <v:row id="node-6" hrefs="circle-6, text-6">
+        MI2101,Dibujo Técnico,1,3,9,Mecánica y Diseño
+      </v:row>
+      <v:row id="node-7" hrefs="circle-7, text-7">
+        QU1102,Laboratorio de Química Básica I,1,1,2,Química
+      </v:row>
+      <v:row id="node-8" hrefs="circle-8, text-8">
+        QU1106,Química Básica I,1,3,4,Química
+      </v:row>
+      <v:row id="node-9" hrefs="circle-9, text-9">
+        SE1100,Actividad Cultural I,1,0,2,Actividades Culturales y Deportivas
+      </v:row>
+      <v:row id="node-10" hrefs="circle-10, text-10">
+        SE1200,Actividad Deportiva I,1,0,2,Actividades Culturales y Deportivas
+      </v:row>
+      <v:row id="node-11" hrefs="circle-11, text-11">
+        CI1107,Comunicación Oral,2,1,3,Comunicación e Idiomas
+      </v:row>
+      <v:row id="node-12" hrefs="circle-12, text-12">
+        CI1231,Inglés II,2,2,3,Comunicación e Idiomas
+      </v:row>
+      <v:row id="node-13" hrefs="circle-13, text-13">
+        FH1000,Centros de Formación Humanística,2,0,2,Formación Humanística
+      </v:row>
+      <v:row id="node-14" hrefs="circle-14, text-14">
+        FI1101,Física General I,2,3,4,Física
+      </v:row>
+      <v:row id="node-15" hrefs="circle-15, text-15">
+        FI1201,Laboratorio Física General I,2,1,2,Física
+      </v:row>
+      <v:row id="node-16" hrefs="circle-16, text-16">
+        MA1102,Cálculo Diferencial e Integral,2,4,5,Matemáticas
+      </v:row>
+      <v:row id="node-17" hrefs="circle-17, text-17">
+        PI3501,Costos Industriales I,2,3,3,Producción Industrial
+      </v:row>
+      <v:row id="node-18" hrefs="circle-18, text-18">
+        QU1104,Laboratorio de Química Básica II,2,1,2,Química
+      </v:row>
+      <v:row id="node-19" hrefs="circle-19, text-19">
+        QU1107,Química Básica II,2,3,4,Química
+      </v:row>
+      <v:row id="node-20" hrefs="circle-20, text-20">
+        CA2125,Elementos de Computación,3,3,4,Computación
+      </v:row>
+      <v:row id="node-21" hrefs="circle-21, text-21">
+        CS2101,Ambiente Humano,3,2,6,Ciencias Sociales
+      </v:row>
+      <v:row id="node-22" hrefs="circle-22, text-22">
+        FI1102,Física General II,3,3,4,Física
+      </v:row>
+      <v:row id="node-23" hrefs="circle-23, text-23">
+        FI1202,Laboratorio Física General II,3,1,2,Física
+      </v:row>
+      <v:row id="node-24" hrefs="circle-24, text-24">
+        MA1103,Cálculo y Álgebra Lineal,3,4,4,Matemáticas
+      </v:row>
+      <v:row id="node-25" hrefs="circle-25, text-25">
+        PI3502,Costos Industriales II,3,3,3,Producción Industrial
+      </v:row>
+      <v:row id="node-26" hrefs="circle-26, text-26">
+        SE1400,Actividad Cultural-Deportiva,3,0,2,Actividades Culturales y Deportivas
+      </v:row>
+      <v:row id="node-27" hrefs="circle-27, text-27">
+        CS2303,Relaciones Laborales,4,2,6,Ciencias Sociales
+      </v:row>
+      <v:row id="node-28" hrefs="circle-28, text-28">
+        FI2103,Física General III,4,3,4,Física
+      </v:row>
+      <v:row id="node-29" hrefs="circle-29, text-29">
+        MA2104,Cálculo Superior,4,4,4,Matemáticas
+      </v:row>
+      <v:row id="node-30" hrefs="circle-30, text-30">
+        MI2109,Estática,4,3,9,Mecánica y Diseño
+      </v:row>
+      <v:row id="node-31" hrefs="circle-31, text-31">
+        PI2304,Estudio del Trabajo I,4,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-32" hrefs="circle-32, text-32">
+        PI2610,Probabilidad y Estadística I,4,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-33" hrefs="circle-33, text-33">
+        CS3404,Seminario de Ética para la Ingeniería,5,2,5,Ciencias Sociales
+      </v:row>
+      <v:row id="node-34" hrefs="circle-34, text-34">
+        MA2105,Ecuaciones Diferenciales,5,4,4,Matemáticas
+      </v:row>
+      <v:row id="node-35" hrefs="circle-35, text-35">
+        MI3138,Máquinas y Equipos,5,3,4,Mecánica y Diseño
+      </v:row>
+      <v:row id="node-36" hrefs="circle-36, text-36">
+        PI3308,Estudio del Trabajo II,5,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-37" hrefs="circle-37, text-37">
+        PI3407,Computación Industrial,5,3,3,Producción Industrial
+      </v:row>
+      <v:row id="node-38" hrefs="circle-38, text-38">
+        PI3612,Probabilidad y Estadística II,5,3,9,Producción Industrial
+      </v:row>
+      <v:row id="node-39" hrefs="circle-39, text-39">
+        CM3207,Métodos Numéricos para Ingeniería,6,3,4,Métodos Numéricos
+      </v:row>
+      <v:row id="node-40" hrefs="circle-40, text-40">
+        ME2208,Ciencias de los Materiales,6,3,3,Materiales
+      </v:row>
+      <v:row id="node-41" hrefs="circle-41, text-41">
+        PI3206,Logística y Administración de la Cadena de Abastecimiento,6,3,3,Producción Industrial
+      </v:row>
+      <v:row id="node-42" hrefs="circle-42, text-42">
+        PI3403,Sistema de Información,6,3,3,Producción Industrial
+      </v:row>
+      <v:row id="node-43" hrefs="circle-43, text-43">
+        PI3512,Dirección de Personal,6,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-44" hrefs="circle-44, text-44">
+        PI3603,Investigación de Operaciones I,6,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-45" hrefs="circle-45, text-45">
+        PI4303,Control de Producción,7,4,4,Producción Industrial
+      </v:row>
+      <v:row id="node-46" hrefs="circle-46, text-46">
+        PI4306,Metrología y Normalización,7,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-47" hrefs="circle-47, text-47">
+        PI4307,Control de Calidad,7,4,4,Producción Industrial
+      </v:row>
+      <v:row id="node-48" hrefs="circle-48, text-48">
+        PI4309,Planeación y Diseño de Instalaciones,7,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-49" hrefs="circle-49, text-49">
+        PI4505,Análisis Económico,7,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-50" hrefs="circle-50, text-50">
+        CS4402,Seminario de Estudios Costarricenses,8,2,3,Ciencias Sociales
+      </v:row>
+      <v:row id="node-51" hrefs="circle-51, text-51">
+        PI4308,Electiva I,8,3,3,Producción Industrial
+      </v:row>
+      <v:row id="node-52" hrefs="circle-52, text-52">
+        PI4802,Administración de Proyectos,8,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-53" hrefs="circle-53, text-53">
+        PI4803,Gestión de la Innovación,8,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-54" hrefs="circle-54, text-54">
+        PI5707,Ingeniería de la Confiabilidad,8,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-55" hrefs="circle-55, text-55">
+        SO4604,Seguridad y Salud Ocupacional,8,3,3,Seguridad Ocupacional
+      </v:row>
+      <v:row id="node-56" hrefs="circle-56, text-56">
+        PI5302,Diseño de Experimentos,9,4,4,Producción Industrial
+      </v:row>
+      <v:row id="node-57" hrefs="circle-57, text-57">
+        PI5303,Electiva II,9,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-58" hrefs="circle-58, text-58">
+        PI5401,Simulación Industrial,9,4,4,Producción Industrial
+      </v:row>
+      <v:row id="node-59" hrefs="circle-59, text-59">
+        PI5402,Automatización de Manufactura,9,4,3,Producción Industrial
+      </v:row>
+      <v:row id="node-60" hrefs="circle-60, text-60">
+        PI5601,Diagnóstico Industrial,9,3,4,Producción Industrial
+      </v:row>
+      <v:row id="node-61" hrefs="circle-61, text-61">
+        PI5901,Proyecto de Graduación,10,12,40,Producción Industrial
+      </v:row>
+    </v:table>
+
+    <v:table name="cursos_enlaces"
+             description="Relaciones de requisito y correquisito entre cursos"
+             columns="id,fuente,destino,tipo">
+      <v:relations>
+        <v:relation target="cursos_nodos" localKey="fuente" foreignKey="id"/>
+        <v:relation target="cursos_nodos" localKey="destino" foreignKey="id"/>
+      </v:relations>
+      <v:row id="edge-0" hrefs="line-0">
+        edge-0,node-0,node-3,requisito
+      </v:row>
+      <v:row id="edge-1" hrefs="line-1">
+        edge-1,node-1,node-3,requisito
+      </v:row>
+      <v:row id="edge-2" hrefs="line-2">
+        edge-2,node-3,node-12,requisito
+      </v:row>
+      <v:row id="edge-3" hrefs="line-3">
+        edge-3,node-11,node-21,requisito
+      </v:row>
+      <v:row id="edge-4" hrefs="line-4">
+        edge-4,node-14,node-22,requisito
+      </v:row>
+      <v:row id="edge-5" hrefs="line-5">
+        edge-5,node-15,node-22,requisito
+      </v:row>
+      <v:row id="edge-6" hrefs="line-6">
+        edge-6,node-16,node-22,requisito
+      </v:row>
+      <v:row id="edge-7" hrefs="line-7">
+        edge-7,node-22,node-23,correquisito
+      </v:row>
+      <v:row id="edge-8" hrefs="line-8">
+        edge-8,node-15,node-23,requisito
+      </v:row>
+      <v:row id="edge-9" hrefs="line-9">
+        edge-9,node-14,node-16,correquisito
+      </v:row>
+      <v:row id="edge-10" hrefs="line-10">
+        edge-10,node-5,node-16,requisito
+      </v:row>
+      <v:row id="edge-11" hrefs="line-11">
+        edge-11,node-4,node-17,requisito
+      </v:row>
+      <v:row id="edge-12" hrefs="line-12">
+        edge-12,node-5,node-17,requisito
+      </v:row>
+      <v:row id="edge-13" hrefs="line-13">
+        edge-13,node-7,node-19,requisito
+      </v:row>
+      <v:row id="edge-14" hrefs="line-14">
+        edge-14,node-8,node-19,requisito
+      </v:row>
+      <v:row id="edge-15" hrefs="line-15">
+        edge-15,node-19,node-18,correquisito
+      </v:row>
+      <v:row id="edge-16" hrefs="line-16">
+        edge-16,node-8,node-7,correquisito
+      </v:row>
+      <v:row id="edge-17" hrefs="line-17">
+        edge-17,node-16,node-24,requisito
+      </v:row>
+      <v:row id="edge-18" hrefs="line-18">
+        edge-18,node-17,node-25,requisito
+      </v:row>
+      <v:row id="edge-19" hrefs="line-19">
+        edge-19,node-11,node-21,requisito
+      </v:row>
+      <v:row id="edge-20" hrefs="line-20">
+        edge-20,node-21,node-27,requisito
+      </v:row>
+      <v:row id="edge-21" hrefs="line-21">
+        edge-21,node-14,node-28,requisito
+      </v:row>
+      <v:row id="edge-22" hrefs="line-22">
+        edge-22,node-16,node-28,requisito
+      </v:row>
+      <v:row id="edge-23" hrefs="line-23">
+        edge-23,node-24,node-29,requisito
+      </v:row>
+      <v:row id="edge-24" hrefs="line-24">
+        edge-24,node-14,node-30,requisito
+      </v:row>
+      <v:row id="edge-25" hrefs="line-25">
+        edge-25,node-15,node-30,requisito
+      </v:row>
+      <v:row id="edge-26" hrefs="line-26">
+        edge-26,node-6,node-31,requisito
+      </v:row>
+      <v:row id="edge-27" hrefs="line-27">
+        edge-27,node-17,node-31,requisito
+      </v:row>
+      <v:row id="edge-28" hrefs="line-28">
+        edge-28,node-31,node-32,correquisito
+      </v:row>
+      <v:row id="edge-29" hrefs="line-29">
+        edge-29,node-20,node-32,requisito
+      </v:row>
+      <v:row id="edge-30" hrefs="line-30">
+        edge-30,node-16,node-32,requisito
+      </v:row>
+      <v:row id="edge-31" hrefs="line-31">
+        edge-31,node-21,node-33,requisito
+      </v:row>
+      <v:row id="edge-32" hrefs="line-32">
+        edge-32,node-24,node-34,requisito
+      </v:row>
+      <v:row id="edge-33" hrefs="line-33">
+        edge-33,node-30,node-35,requisito
+      </v:row>
+      <v:row id="edge-34" hrefs="line-34">
+        edge-34,node-31,node-36,requisito
+      </v:row>
+      <v:row id="edge-35" hrefs="line-35">
+        edge-35,node-20,node-37,requisito
+      </v:row>
+      <v:row id="edge-36" hrefs="line-36">
+        edge-36,node-12,node-37,requisito
+      </v:row>
+      <v:row id="edge-37" hrefs="line-37">
+        edge-37,node-24,node-38,requisito
+      </v:row>
+      <v:row id="edge-38" hrefs="line-38">
+        edge-38,node-32,node-38,requisito
+      </v:row>
+      <v:row id="edge-39" hrefs="line-39">
+        edge-39,node-34,node-39,requisito
+      </v:row>
+      <v:row id="edge-40" hrefs="line-40">
+        edge-40,node-37,node-39,requisito
+      </v:row>
+      <v:row id="edge-41" hrefs="line-41">
+        edge-41,node-22,node-40,requisito
+      </v:row>
+      <v:row id="edge-42" hrefs="line-42">
+        edge-42,node-19,node-40,requisito
+      </v:row>
+      <v:row id="edge-43" hrefs="line-43">
+        edge-43,node-38,node-41,requisito
+      </v:row>
+      <v:row id="edge-44" hrefs="line-44">
+        edge-44,node-41,node-44,correquisito
+      </v:row>
+      <v:row id="edge-45" hrefs="line-45">
+        edge-45,node-37,node-42,requisito
+      </v:row>
+      <v:row id="edge-46" hrefs="line-46">
+        edge-46,node-27,node-43,requisito
+      </v:row>
+      <v:row id="edge-47" hrefs="line-47">
+        edge-47,node-36,node-43,requisito
+      </v:row>
+      <v:row id="edge-48" hrefs="line-48">
+        edge-48,node-34,node-44,requisito
+      </v:row>
+      <v:row id="edge-49" hrefs="line-49">
+        edge-49,node-41,node-45,requisito
+      </v:row>
+      <v:row id="edge-50" hrefs="line-50">
+        edge-50,node-44,node-45,requisito
+      </v:row>
+      <v:row id="edge-51" hrefs="line-51">
+        edge-51,node-36,node-46,requisito
+      </v:row>
+      <v:row id="edge-52" hrefs="line-52">
+        edge-52,node-46,node-47,correquisito
+      </v:row>
+      <v:row id="edge-53" hrefs="line-53">
+        edge-53,node-38,node-47,requisito
+      </v:row>
+      <v:row id="edge-54" hrefs="line-54">
+        edge-54,node-36,node-48,requisito
+      </v:row>
+      <v:row id="edge-55" hrefs="line-55">
+        edge-55,node-36,node-49,requisito
+      </v:row>
+      <v:row id="edge-56" hrefs="line-56">
+        edge-56,node-25,node-49,requisito
+      </v:row>
+      <v:row id="edge-57" hrefs="line-57">
+        edge-57,node-33,node-50,requisito
+      </v:row>
+      <v:row id="edge-58" hrefs="line-58">
+        edge-58,node-45,node-51,requisito
+      </v:row>
+      <v:row id="edge-59" hrefs="line-59">
+        edge-59,node-47,node-51,requisito
+      </v:row>
+      <v:row id="edge-60" hrefs="line-60">
+        edge-60,node-45,node-52,requisito
+      </v:row>
+      <v:row id="edge-61" hrefs="line-61">
+        edge-61,node-43,node-53,requisito
+      </v:row>
+      <v:row id="edge-62" hrefs="line-62">
+        edge-62,node-47,node-54,requisito
+      </v:row>
+      <v:row id="edge-63" hrefs="line-63">
+        edge-63,node-36,node-55,requisito
+      </v:row>
+      <v:row id="edge-64" hrefs="line-64">
+        edge-64,node-54,node-56,requisito
+      </v:row>
+      <v:row id="edge-65" hrefs="line-65">
+        edge-65,node-51,node-57,requisito
+      </v:row>
+      <v:row id="edge-66" hrefs="line-66">
+        edge-66,node-41,node-58,requisito
+      </v:row>
+      <v:row id="edge-67" hrefs="line-67">
+        edge-67,node-54,node-58,requisito
+      </v:row>
+      <v:row id="edge-68" hrefs="line-68">
+        edge-68,node-35,node-59,requisito
+      </v:row>
+      <v:row id="edge-69" hrefs="line-69">
+        edge-69,node-46,node-59,requisito
+      </v:row>
+      <v:row id="edge-70" hrefs="line-70">
+        edge-70,node-45,node-60,requisito
+      </v:row>
+      <v:row id="edge-71" hrefs="line-71">
+        edge-71,node-52,node-60,requisito
+      </v:row>
+      <v:row id="edge-72" hrefs="line-72">
+        edge-72,node-50,node-61,requisito
+      </v:row>
+      <v:row id="edge-73" hrefs="line-73">
+        edge-73,node-51,node-61,requisito
+      </v:row>
+      <v:row id="edge-74" hrefs="line-74">
+        edge-74,node-56,node-61,requisito
+      </v:row>
+      <v:row id="edge-75" hrefs="line-75">
+        edge-75,node-57,node-61,requisito
+      </v:row>
+      <v:row id="edge-76" hrefs="line-76">
+        edge-76,node-58,node-61,requisito
+      </v:row>
+      <v:row id="edge-77" hrefs="line-77">
+        edge-77,node-59,node-61,requisito
+      </v:row>
+      <v:row id="edge-78" hrefs="line-78">
+        edge-78,node-60,node-61,requisito
+      </v:row>
+      <v:row id="edge-79" hrefs="line-79">
+        edge-79,node-55,node-61,requisito
+      </v:row>
+    </v:table>
+  </metadata>
+
+  <defs>
+    <marker id="flecha-mat" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#4e79a7" />
+    </marker>
+    <marker id="flecha-fis" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#f28e2b" />
+    </marker>
+    <marker id="flecha-qui" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#e15759" />
+    </marker>
+    <marker id="flecha-pi" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#76b7b2" />
+    </marker>
+    <marker id="flecha-mec" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#59a14f" />
+    </marker>
+    <marker id="flecha-matl" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#edc948" />
+    </marker>
+    <marker id="flecha-comp" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#b07aa1" />
+    </marker>
+    <marker id="flecha-mn" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#ff9da7" />
+    </marker>
+    <marker id="flecha-cs" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#9c755f" />
+    </marker>
+    <marker id="flecha-ci" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#7a7a7a" />
+    </marker>
+    <marker id="flecha-fh" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#86bcb6" />
+    </marker>
+    <marker id="flecha-cult" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#bd6b9e" />
+    </marker>
+    <marker id="flecha-so" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#499894" />
+    </marker>
+    <marker id="flecha-def" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#666666" />
+    </marker>
+  </defs>
+
+  <style>
+    .nodo-texto { font-family: sans-serif; font-size: 9px; fill: #fff; text-anchor: middle; font-weight: bold; }
+  </style>
+
+      <line id="line-0" href="#edge-0" x1="82.82" y1="77.88" x2="164.68" y2="192.12" stroke="#7a7a7a" stroke-width="3.2" marker-end="url(#flecha-ci)" />
+      <line id="line-1" href="#edge-1" x1="153.97" y1="81.64" x2="173.53" y2="188.36" stroke="#7a7a7a" stroke-width="3.2" marker-end="url(#flecha-ci)" />
+      <line id="line-2" href="#edge-2" x1="177.5" y1="232.0" x2="177.5" y2="338.0" stroke="#7a7a7a" stroke-width="3.2" marker-end="url(#flecha-ci)" />
+      <line id="line-3" href="#edge-3" x1="85.2" y1="375.91" x2="198.1" y2="494.09" stroke="#7a7a7a" stroke-width="3.2" marker-end="url(#flecha-ci)" />
+      <line id="line-4" href="#edge-4" x1="624.37" y1="346.12" x2="769.83" y2="467.88" stroke="#f28e2b" stroke-width="3.2" marker-end="url(#flecha-fis)" />
+      <line id="line-5" href="#edge-5" x1="726.15" y1="378.97" x2="775.55" y2="463.03" stroke="#f28e2b" stroke-width="3.2" marker-end="url(#flecha-fis)" />
+      <line id="line-6" href="#edge-6" x1="519.49" y1="342.2" x2="767.21" y2="471.8" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-7" href="#edge-7" x1="808.7" y1="482.0" x2="908.0" y2="482.0" stroke="#f28e2b" stroke-width="3.2" stroke-dasharray="5,4" marker-start="url(#flecha-fis)" marker-end="url(#flecha-fis)" />
+      <line id="line-8" href="#edge-8" x1="734.13" y1="370.86" x2="910.87" y2="471.14" stroke="#f28e2b" stroke-width="3.2" marker-end="url(#flecha-fis)" />
+      <line id="line-9" href="#edge-9" x1="585.5" y1="332.0" x2="522.0" y2="332.0" stroke="#f28e2b" stroke-width="3.2" stroke-dasharray="5,4" marker-start="url(#flecha-fis)" marker-end="url(#flecha-fis)" />
+      <line id="line-10" href="#edge-10" x1="407.04" y1="226.51" x2="485.46" y2="315.49" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-11" href="#edge-11" x1="297.82" y1="227.88" x2="379.68" y2="342.12" stroke="#9c755f" stroke-width="3.2" marker-end="url(#flecha-cs)" />
+      <line id="line-12" href="#edge-12" x1="392.5" y1="232.0" x2="392.5" y2="338.0" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-13" href="#edge-13" x1="625.54" y1="194.59" x2="804.46" y2="319.41" stroke="#e15759" stroke-width="3.2" marker-end="url(#flecha-qui)" />
+      <line id="line-14" href="#edge-14" x1="727.82" y1="199.88" x2="809.68" y2="314.12" stroke="#e15759" stroke-width="3.2" marker-end="url(#flecha-qui)" />
+      <line id="line-15" href="#edge-15" x1="844.5" y1="332.0" x2="908.0" y2="332.0" stroke="#e15759" stroke-width="3.2" stroke-dasharray="5,4" marker-start="url(#flecha-qui)" marker-end="url(#flecha-qui)" />
+      <line id="line-16" href="#edge-16" x1="693.0" y1="182.0" x2="629.5" y2="182.0" stroke="#e15759" stroke-width="3.2" stroke-dasharray="5,4" marker-start="url(#flecha-qui)" marker-end="url(#flecha-qui)" />
+      <line id="line-17" href="#edge-17" x1="500.0" y1="354.0" x2="500.0" y2="488.0" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-18" href="#edge-18" x1="387.39" y1="381.4" x2="361.81" y2="488.6" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-19" href="#edge-19" x1="85.2" y1="375.91" x2="198.1" y2="494.09" stroke="#7a7a7a" stroke-width="3.2" marker-end="url(#flecha-ci)" />
+      <line id="line-20" href="#edge-20" x1="230.92" y1="523.17" x2="396.38" y2="646.83" stroke="#9c755f" stroke-width="3.2" marker-end="url(#flecha-cs)" />
+      <line id="line-21" href="#edge-21" x1="606.06" y1="353.95" x2="587.44" y2="638.05" stroke="#f28e2b" stroke-width="3.2" marker-end="url(#flecha-fis)" />
+      <line id="line-22" href="#edge-22" x1="505.58" y1="353.28" x2="580.42" y2="638.72" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-23" href="#edge-23" x1="520.77" y1="517.25" x2="909.23" y2="652.75" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-24" href="#edge-24" x1="616.67" y1="352.0" x2="748.83" y2="640.0" stroke="#f28e2b" stroke-width="3.2" marker-end="url(#flecha-fis)" />
+      <line id="line-25" href="#edge-25" x1="718.12" y1="381.78" x2="754.88" y2="638.22" stroke="#f28e2b" stroke-width="3.2" marker-end="url(#flecha-fis)" />
+      <line id="line-26" href="#edge-26" x1="484.3" y1="225.41" x2="85.7" y2="616.59" stroke="#59a14f" stroke-width="3.2" marker-end="url(#flecha-mec)" />
+      <line id="line-27" href="#edge-27" x1="375.68" y1="374.18" x2="86.82" y2="617.82" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-28" href="#edge-28" x1="92.0" y1="632.0" x2="220.0" y2="632.0" stroke="#76b7b2" stroke-width="3.2" stroke-dasharray="5,4" marker-start="url(#flecha-pi)" marker-end="url(#flecha-pi)" />
+      <line id="line-29" href="#edge-29" x1="87.94" y1="522.73" x2="224.06" y2="619.27" stroke="#b07aa1" stroke-width="3.2" marker-end="url(#flecha-comp)" />
+      <line id="line-30" href="#edge-30" x1="485.66" y1="348.68" x2="256.34" y2="615.32" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-31" href="#edge-31" x1="203.82" y1="529.85" x2="79.48" y2="790.15" stroke="#9c755f" stroke-width="3.2" marker-end="url(#flecha-cs)" />
+      <line id="line-32" href="#edge-32" x1="493.94" y1="531.15" x2="420.06" y2="788.85" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-33" href="#edge-33" x1="741.42" y1="674.46" x2="602.58" y2="795.54" stroke="#59a14f" stroke-width="3.2" marker-end="url(#flecha-mec)" />
+      <line id="line-34" href="#edge-34" x1="91.54" y1="636.46" x2="908.46" y2="805.54" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-35" href="#edge-35" x1="90.17" y1="518.79" x2="737.83" y2="801.21" stroke="#b07aa1" stroke-width="3.2" marker-end="url(#flecha-comp)" />
+      <line id="line-36" href="#edge-36" x1="194.89" y1="373.48" x2="740.61" y2="796.52" stroke="#7a7a7a" stroke-width="3.2" marker-end="url(#flecha-ci)" />
+      <line id="line-37" href="#edge-37" x1="485.66" y1="526.68" x2="256.34" y2="793.32" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-38" href="#edge-38" x1="242.0" y1="654.0" x2="242.0" y2="788.0" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-39" href="#edge-39" x1="430.58" y1="824.46" x2="569.42" y2="945.54" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-40" href="#edge-40" x1="741.42" y1="824.46" x2="602.58" y2="945.54" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-41" href="#edge-41" x1="768.4" y1="494.21" x2="88.3" y2="947.79" stroke="#f28e2b" stroke-width="3.2" marker-end="url(#flecha-fis)" />
+      <line id="line-42" href="#edge-42" x1="805.61" y1="346.1" x2="86.89" y2="945.9" stroke="#e15759" stroke-width="3.2" marker-end="url(#flecha-qui)" />
+      <line id="line-43" href="#edge-43" x1="242.0" y1="832.0" x2="242.0" y2="910.0" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-44" href="#edge-44" x1="264.0" y1="932.0" x2="392.0" y2="932.0" stroke="#76b7b2" stroke-width="3.2" stroke-dasharray="5,4" marker-start="url(#flecha-pi)" marker-end="url(#flecha-pi)" />
+      <line id="line-45" href="#edge-45" x1="758.0" y1="832.0" x2="758.0" y2="938.0" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-46" href="#edge-46" x1="433.02" y1="671.06" x2="910.98" y2="948.94" stroke="#9c755f" stroke-width="3.2" marker-end="url(#flecha-cs)" />
+      <line id="line-47" href="#edge-47" x1="930.0" y1="832.0" x2="930.0" y2="938.0" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-48" href="#edge-48" x1="414.0" y1="832.0" x2="414.0" y2="910.0" stroke="#4e79a7" stroke-width="3.2" marker-end="url(#flecha-mat)" />
+      <line id="line-49" href="#edge-49" x1="260.11" y1="944.49" x2="481.89" y2="1097.51" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-50" href="#edge-50" x1="423.57" y1="951.81" x2="490.43" y2="1090.19" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-51" href="#edge-51" x1="909.02" y1="816.63" x2="90.98" y2="1075.37" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-52" href="#edge-52" x1="92.0" y1="1082.0" x2="263.0" y2="1082.0" stroke="#76b7b2" stroke-width="3.2" stroke-dasharray="5,4" marker-start="url(#flecha-pi)" marker-end="url(#flecha-pi)" />
+      <line id="line-53" href="#edge-53" x1="245.44" y1="831.73" x2="281.56" y2="1060.27" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-54" href="#edge-54" x1="917.18" y1="827.88" x2="727.82" y2="1092.12" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-55" href="#edge-55" x1="930.0" y1="832.0" x2="930.0" y2="1088.0" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-56" href="#edge-56" x1="371.9" y1="525.91" x2="914.8" y2="1094.09" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-57" href="#edge-57" x1="70.0" y1="832.0" x2="70.0" y2="1238.0" stroke="#9c755f" stroke-width="3.2" marker-end="url(#flecha-cs)" />
+      <line id="line-58" href="#edge-58" x1="489.06" y1="1129.09" x2="424.94" y2="1240.91" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-59" href="#edge-59" x1="297.91" y1="1099.81" x2="401.09" y2="1242.19" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-60" href="#edge-60" x1="480.98" y1="1121.06" x2="261.02" y2="1248.94" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-61" href="#edge-61" x1="919.06" y1="979.09" x2="768.94" y2="1240.91" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-62" href="#edge-62" x1="303.94" y1="1093.2" x2="567.06" y2="1248.8" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-63" href="#edge-63" x1="930.0" y1="832.0" x2="930.0" y2="1238.0" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-64" href="#edge-64" x1="575.06" y1="1279.09" x2="510.94" y2="1390.91" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-65" href="#edge-65" x1="399.66" y1="1276.68" x2="299.34" y2="1393.32" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-66" href="#edge-66" x1="257.47" y1="947.64" x2="699.53" y2="1394.36" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-67" href="#edge-67" x1="600.34" y1="1276.68" x2="700.66" y2="1393.32" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-68" href="#edge-68" x1="596.94" y1="829.09" x2="919.06" y2="1390.91" stroke="#59a14f" stroke-width="3.2" marker-end="url(#flecha-mec)" />
+      <line id="line-69" href="#edge-69" x1="90.56" y1="1089.84" x2="909.44" y2="1402.16" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-70" href="#edge-70" x1="481.96" y1="1122.59" x2="88.04" y2="1397.41" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-71" href="#edge-71" x1="225.42" y1="1274.46" x2="86.58" y2="1395.54" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-72" href="#edge-72" x1="88.04" y1="1272.59" x2="481.96" y2="1547.41" stroke="#9c755f" stroke-width="3.2" marker-end="url(#flecha-cs)" />
+      <line id="line-73" href="#edge-73" x1="420.06" y1="1281.15" x2="493.94" y2="1538.85" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-74" href="#edge-74" x1="500.0" y1="1432.0" x2="500.0" y2="1538.0" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-75" href="#edge-75" x1="303.04" y1="1422.59" x2="481.96" y2="1547.41" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-76" href="#edge-76" x1="696.96" y1="1422.59" x2="518.04" y2="1547.41" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-77" href="#edge-77" x1="909.23" y1="1417.25" x2="520.77" y2="1552.75" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-78" href="#edge-78" x1="90.77" y1="1417.25" x2="479.23" y2="1552.75" stroke="#76b7b2" stroke-width="3.2" marker-end="url(#flecha-pi)" />
+      <line id="line-79" href="#edge-79" x1="911.96" y1="1272.59" x2="518.04" y2="1547.41" stroke="#499894" stroke-width="3.2" marker-end="url(#flecha-so)" />
+
+    <g class="nodo">
+      <circle id="circle-0" href="#node-0" cx="70" cy="60" r="22" fill="#7a7a7a" stroke="#222" stroke-width="1" />
+      <text id="text-0" href="#node-0" class="nodo-texto" x="70" y="63">CI0200</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-1" href="#node-1" cx="150" cy="60" r="22" fill="#7a7a7a" stroke="#222" stroke-width="1" />
+      <text id="text-1" href="#node-1" class="nodo-texto" x="150" y="63">CI0202</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-2" href="#node-2" cx="70.0" cy="210" r="22" fill="#7a7a7a" stroke="#222" stroke-width="1" />
+      <text id="text-2" href="#node-2" class="nodo-texto" x="70.0" y="213">CI1106</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-3" href="#node-3" cx="177.5" cy="210" r="22" fill="#7a7a7a" stroke="#222" stroke-width="1" />
+      <text id="text-3" href="#node-3" class="nodo-texto" x="177.5" y="213">CI1230</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-4" href="#node-4" cx="285.0" cy="210" r="22" fill="#9c755f" stroke="#222" stroke-width="1" />
+      <text id="text-4" href="#node-4" class="nodo-texto" x="285.0" y="213">CS1502</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-5" href="#node-5" cx="392.5" cy="210" r="22" fill="#4e79a7" stroke="#222" stroke-width="1" />
+      <text id="text-5" href="#node-5" class="nodo-texto" x="392.5" y="213">MA0101</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-6" href="#node-6" cx="500.0" cy="210" r="22" fill="#59a14f" stroke="#222" stroke-width="1" />
+      <text id="text-6" href="#node-6" class="nodo-texto" x="500.0" y="213">MI2101</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-7" href="#node-7" cx="607.5" cy="182" r="22" fill="#e15759" stroke="#222" stroke-width="1" />
+      <text id="text-7" href="#node-7" class="nodo-texto" x="607.5" y="185">QU1102</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-8" href="#node-8" cx="715.0" cy="182" r="22" fill="#e15759" stroke="#222" stroke-width="1" />
+      <text id="text-8" href="#node-8" class="nodo-texto" x="715.0" y="185">QU1106</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-9" href="#node-9" cx="822.5" cy="210" r="22" fill="#bd6b9e" stroke="#222" stroke-width="1" />
+      <text id="text-9" href="#node-9" class="nodo-texto" x="822.5" y="213">SE1100</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-10" href="#node-10" cx="930.0" cy="210" r="22" fill="#bd6b9e" stroke="#222" stroke-width="1" />
+      <text id="text-10" href="#node-10" class="nodo-texto" x="930.0" y="213">SE1200</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-11" href="#node-11" cx="70.0" cy="360" r="22" fill="#7a7a7a" stroke="#222" stroke-width="1" />
+      <text id="text-11" href="#node-11" class="nodo-texto" x="70.0" y="363">CI1107</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-12" href="#node-12" cx="177.5" cy="360" r="22" fill="#7a7a7a" stroke="#222" stroke-width="1" />
+      <text id="text-12" href="#node-12" class="nodo-texto" x="177.5" y="363">CI1231</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-13" href="#node-13" cx="285.0" cy="360" r="22" fill="#86bcb6" stroke="#222" stroke-width="1" />
+      <text id="text-13" href="#node-13" class="nodo-texto" x="285.0" y="363">FH1000</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-14" href="#node-14" cx="607.5" cy="332" r="22" fill="#f28e2b" stroke="#222" stroke-width="1" />
+      <text id="text-14" href="#node-14" class="nodo-texto" x="607.5" y="335">FI1101</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-15" href="#node-15" cx="715.0" cy="360" r="22" fill="#f28e2b" stroke="#222" stroke-width="1" />
+      <text id="text-15" href="#node-15" class="nodo-texto" x="715.0" y="363">FI1201</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-16" href="#node-16" cx="500.0" cy="332" r="22" fill="#4e79a7" stroke="#222" stroke-width="1" />
+      <text id="text-16" href="#node-16" class="nodo-texto" x="500.0" y="335">MA1102</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-17" href="#node-17" cx="392.5" cy="360" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-17" href="#node-17" class="nodo-texto" x="392.5" y="363">PI3501</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-18" href="#node-18" cx="930.0" cy="332" r="22" fill="#e15759" stroke="#222" stroke-width="1" />
+      <text id="text-18" href="#node-18" class="nodo-texto" x="930.0" y="335">QU1104</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-19" href="#node-19" cx="822.5" cy="332" r="22" fill="#e15759" stroke="#222" stroke-width="1" />
+      <text id="text-19" href="#node-19" class="nodo-texto" x="822.5" y="335">QU1107</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-20" href="#node-20" cx="70.0" cy="510" r="22" fill="#b07aa1" stroke="#222" stroke-width="1" />
+      <text id="text-20" href="#node-20" class="nodo-texto" x="70.0" y="513">CA2125</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-21" href="#node-21" cx="213.3" cy="510" r="22" fill="#9c755f" stroke="#222" stroke-width="1" />
+      <text id="text-21" href="#node-21" class="nodo-texto" x="213.3" y="513">CS2101</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-22" href="#node-22" cx="786.7" cy="482" r="22" fill="#f28e2b" stroke="#222" stroke-width="1" />
+      <text id="text-22" href="#node-22" class="nodo-texto" x="786.7" y="485">FI1102</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-23" href="#node-23" cx="930.0" cy="482" r="22" fill="#f28e2b" stroke="#222" stroke-width="1" />
+      <text id="text-23" href="#node-23" class="nodo-texto" x="930.0" y="485">FI1202</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-24" href="#node-24" cx="500.0" cy="510" r="22" fill="#4e79a7" stroke="#222" stroke-width="1" />
+      <text id="text-24" href="#node-24" class="nodo-texto" x="500.0" y="513">MA1103</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-25" href="#node-25" cx="356.7" cy="510" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-25" href="#node-25" class="nodo-texto" x="356.7" y="513">PI3502</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-26" href="#node-26" cx="643.3" cy="510" r="22" fill="#bd6b9e" stroke="#222" stroke-width="1" />
+      <text id="text-26" href="#node-26" class="nodo-texto" x="643.3" y="513">SE1400</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-27" href="#node-27" cx="414.0" cy="660" r="22" fill="#9c755f" stroke="#222" stroke-width="1" />
+      <text id="text-27" href="#node-27" class="nodo-texto" x="414.0" y="663">CS2303</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-28" href="#node-28" cx="586.0" cy="660" r="22" fill="#f28e2b" stroke="#222" stroke-width="1" />
+      <text id="text-28" href="#node-28" class="nodo-texto" x="586.0" y="663">FI2103</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-29" href="#node-29" cx="930.0" cy="660" r="22" fill="#4e79a7" stroke="#222" stroke-width="1" />
+      <text id="text-29" href="#node-29" class="nodo-texto" x="930.0" y="663">MA2104</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-30" href="#node-30" cx="758.0" cy="660" r="22" fill="#59a14f" stroke="#222" stroke-width="1" />
+      <text id="text-30" href="#node-30" class="nodo-texto" x="758.0" y="663">MI2109</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-31" href="#node-31" cx="70.0" cy="632" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-31" href="#node-31" class="nodo-texto" x="70.0" y="635">PI2304</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-32" href="#node-32" cx="242.0" cy="632" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-32" href="#node-32" class="nodo-texto" x="242.0" y="635">PI2610</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-33" href="#node-33" cx="70.0" cy="810" r="22" fill="#9c755f" stroke="#222" stroke-width="1" />
+      <text id="text-33" href="#node-33" class="nodo-texto" x="70.0" y="813">CS3404</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-34" href="#node-34" cx="414.0" cy="810" r="22" fill="#4e79a7" stroke="#222" stroke-width="1" />
+      <text id="text-34" href="#node-34" class="nodo-texto" x="414.0" y="813">MA2105</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-35" href="#node-35" cx="586.0" cy="810" r="22" fill="#59a14f" stroke="#222" stroke-width="1" />
+      <text id="text-35" href="#node-35" class="nodo-texto" x="586.0" y="813">MI3138</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-36" href="#node-36" cx="930.0" cy="810" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-36" href="#node-36" class="nodo-texto" x="930.0" y="813">PI3308</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-37" href="#node-37" cx="758.0" cy="810" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-37" href="#node-37" class="nodo-texto" x="758.0" y="813">PI3407</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-38" href="#node-38" cx="242.0" cy="810" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-38" href="#node-38" class="nodo-texto" x="242.0" y="813">PI3612</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-39" href="#node-39" cx="586.0" cy="960" r="22" fill="#ff9da7" stroke="#222" stroke-width="1" />
+      <text id="text-39" href="#node-39" class="nodo-texto" x="586.0" y="963">CM3207</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-40" href="#node-40" cx="70.0" cy="960" r="22" fill="#edc948" stroke="#222" stroke-width="1" />
+      <text id="text-40" href="#node-40" class="nodo-texto" x="70.0" y="963">ME2208</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-41" href="#node-41" cx="242.0" cy="932" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-41" href="#node-41" class="nodo-texto" x="242.0" y="935">PI3206</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-42" href="#node-42" cx="758.0" cy="960" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-42" href="#node-42" class="nodo-texto" x="758.0" y="963">PI3403</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-43" href="#node-43" cx="930.0" cy="960" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-43" href="#node-43" class="nodo-texto" x="930.0" y="963">PI3512</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-44" href="#node-44" cx="414.0" cy="932" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-44" href="#node-44" class="nodo-texto" x="414.0" y="935">PI3603</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-45" href="#node-45" cx="500.0" cy="1110" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-45" href="#node-45" class="nodo-texto" x="500.0" y="1113">PI4303</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-46" href="#node-46" cx="70.0" cy="1082" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-46" href="#node-46" class="nodo-texto" x="70.0" y="1085">PI4306</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-47" href="#node-47" cx="285.0" cy="1082" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-47" href="#node-47" class="nodo-texto" x="285.0" y="1085">PI4307</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-48" href="#node-48" cx="715.0" cy="1110" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-48" href="#node-48" class="nodo-texto" x="715.0" y="1113">PI4309</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-49" href="#node-49" cx="930.0" cy="1110" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-49" href="#node-49" class="nodo-texto" x="930.0" y="1113">PI4505</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-50" href="#node-50" cx="70.0" cy="1260" r="22" fill="#9c755f" stroke="#222" stroke-width="1" />
+      <text id="text-50" href="#node-50" class="nodo-texto" x="70.0" y="1263">CS4402</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-51" href="#node-51" cx="414.0" cy="1260" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-51" href="#node-51" class="nodo-texto" x="414.0" y="1263">PI4308</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-52" href="#node-52" cx="242.0" cy="1260" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-52" href="#node-52" class="nodo-texto" x="242.0" y="1263">PI4802</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-53" href="#node-53" cx="758.0" cy="1260" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-53" href="#node-53" class="nodo-texto" x="758.0" y="1263">PI4803</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-54" href="#node-54" cx="586.0" cy="1260" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-54" href="#node-54" class="nodo-texto" x="586.0" y="1263">PI5707</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-55" href="#node-55" cx="930.0" cy="1260" r="22" fill="#499894" stroke="#222" stroke-width="1" />
+      <text id="text-55" href="#node-55" class="nodo-texto" x="930.0" y="1263">SO4604</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-56" href="#node-56" cx="500.0" cy="1410" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-56" href="#node-56" class="nodo-texto" x="500.0" y="1413">PI5302</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-57" href="#node-57" cx="285.0" cy="1410" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-57" href="#node-57" class="nodo-texto" x="285.0" y="1413">PI5303</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-58" href="#node-58" cx="715.0" cy="1410" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-58" href="#node-58" class="nodo-texto" x="715.0" y="1413">PI5401</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-59" href="#node-59" cx="930.0" cy="1410" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-59" href="#node-59" class="nodo-texto" x="930.0" y="1413">PI5402</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-60" href="#node-60" cx="70.0" cy="1410" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-60" href="#node-60" class="nodo-texto" x="70.0" y="1413">PI5601</text>
+    </g>
+    <g class="nodo">
+      <circle id="circle-61" href="#node-61" cx="500.0" cy="1560" r="22" fill="#76b7b2" stroke="#222" stroke-width="1" />
+      <text id="text-61" href="#node-61" class="nodo-texto" x="500.0" y="1563">PI5901</text>
+    </g>
+
+</svg>

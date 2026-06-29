@@ -1,0 +1,937 @@
+{
+  "nodos": [
+    {
+      "nombre": "Examen Diagnóstico",
+      "sigla": "CI0200",
+      "semestre": 0,
+      "creditos": 0,
+      "horas": 0,
+      "area": "Comunicación e Idiomas"
+    },
+    {
+      "nombre": "Inglés Básico",
+      "sigla": "CI0202",
+      "semestre": 0,
+      "creditos": 2,
+      "horas": 3,
+      "area": "Comunicación e Idiomas"
+    },
+    {
+      "nombre": "Comunicación Escrita",
+      "sigla": "CI1106",
+      "semestre": 1,
+      "creditos": 2,
+      "horas": 6,
+      "area": "Comunicación e Idiomas"
+    },
+    {
+      "nombre": "Inglés I",
+      "sigla": "CI1230",
+      "semestre": 1,
+      "creditos": 2,
+      "horas": 6,
+      "area": "Comunicación e Idiomas"
+    },
+    {
+      "nombre": "Introducción a la Técnica Ciencia y Tecnología",
+      "sigla": "CS1502",
+      "semestre": 1,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Ciencias Sociales"
+    },
+    {
+      "nombre": "Matemática General",
+      "sigla": "MA0101",
+      "semestre": 1,
+      "creditos": 2,
+      "horas": 5,
+      "area": "Matemáticas"
+    },
+    {
+      "nombre": "Dibujo Técnico",
+      "sigla": "MI2101",
+      "semestre": 1,
+      "creditos": 3,
+      "horas": 9,
+      "area": "Mecánica y Diseño"
+    },
+    {
+      "nombre": "Laboratorio de Química Básica I",
+      "sigla": "QU1102",
+      "semestre": 1,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Química"
+    },
+    {
+      "nombre": "Química Básica I",
+      "sigla": "QU1106",
+      "semestre": 1,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Química"
+    },
+    {
+      "nombre": "Actividad Cultural I",
+      "sigla": "SE1100",
+      "semestre": 1,
+      "creditos": 0,
+      "horas": 2,
+      "area": "Actividades Culturales y Deportivas"
+    },
+    {
+      "nombre": "Actividad Deportiva I",
+      "sigla": "SE1200",
+      "semestre": 1,
+      "creditos": 0,
+      "horas": 2,
+      "area": "Actividades Culturales y Deportivas"
+    },
+    {
+      "nombre": "Comunicación Oral",
+      "sigla": "CI1107",
+      "semestre": 2,
+      "creditos": 1,
+      "horas": 3,
+      "area": "Comunicación e Idiomas"
+    },
+    {
+      "nombre": "Inglés II",
+      "sigla": "CI1231",
+      "semestre": 2,
+      "creditos": 2,
+      "horas": 3,
+      "area": "Comunicación e Idiomas"
+    },
+    {
+      "nombre": "Centros de Formación Humanística",
+      "sigla": "FH1000",
+      "semestre": 2,
+      "creditos": 0,
+      "horas": 2,
+      "area": "Formación Humanística"
+    },
+    {
+      "nombre": "Física General I",
+      "sigla": "FI1101",
+      "semestre": 2,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Física"
+    },
+    {
+      "nombre": "Laboratorio Física General I",
+      "sigla": "FI1201",
+      "semestre": 2,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Física"
+    },
+    {
+      "nombre": "Cálculo Diferencial e Integral",
+      "sigla": "MA1102",
+      "semestre": 2,
+      "creditos": 4,
+      "horas": 5,
+      "area": "Matemáticas"
+    },
+    {
+      "nombre": "Costos Industriales I",
+      "sigla": "PI3501",
+      "semestre": 2,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Laboratorio de Química Básica II",
+      "sigla": "QU1104",
+      "semestre": 2,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Química"
+    },
+    {
+      "nombre": "Química Básica II",
+      "sigla": "QU1107",
+      "semestre": 2,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Química"
+    },
+    {
+      "nombre": "Elementos de Computación",
+      "sigla": "CA2125",
+      "semestre": 3,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Computación"
+    },
+    {
+      "nombre": "Ambiente Humano",
+      "sigla": "CS2101",
+      "semestre": 3,
+      "creditos": 2,
+      "horas": 6,
+      "area": "Ciencias Sociales"
+    },
+    {
+      "nombre": "Física General II",
+      "sigla": "FI1102",
+      "semestre": 3,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Física"
+    },
+    {
+      "nombre": "Laboratorio Física General II",
+      "sigla": "FI1202",
+      "semestre": 3,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Física"
+    },
+    {
+      "nombre": "Cálculo y Álgebra Lineal",
+      "sigla": "MA1103",
+      "semestre": 3,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Matemáticas"
+    },
+    {
+      "nombre": "Costos Industriales II",
+      "sigla": "PI3502",
+      "semestre": 3,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Actividad Cultural-Deportiva",
+      "sigla": "SE1400",
+      "semestre": 3,
+      "creditos": 0,
+      "horas": 2,
+      "area": "Actividades Culturales y Deportivas"
+    },
+    {
+      "nombre": "Relaciones Laborales",
+      "sigla": "CS2303",
+      "semestre": 4,
+      "creditos": 2,
+      "horas": 6,
+      "area": "Ciencias Sociales"
+    },
+    {
+      "nombre": "Física General III",
+      "sigla": "FI2103",
+      "semestre": 4,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Física"
+    },
+    {
+      "nombre": "Cálculo Superior",
+      "sigla": "MA2104",
+      "semestre": 4,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Matemáticas"
+    },
+    {
+      "nombre": "Estática",
+      "sigla": "MI2109",
+      "semestre": 4,
+      "creditos": 3,
+      "horas": 9,
+      "area": "Mecánica y Diseño"
+    },
+    {
+      "nombre": "Estudio del Trabajo I",
+      "sigla": "PI2304",
+      "semestre": 4,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Probabilidad y Estadística I",
+      "sigla": "PI2610",
+      "semestre": 4,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Seminario de Ética para la Ingeniería",
+      "sigla": "CS3404",
+      "semestre": 5,
+      "creditos": 2,
+      "horas": 5,
+      "area": "Ciencias Sociales"
+    },
+    {
+      "nombre": "Ecuaciones Diferenciales",
+      "sigla": "MA2105",
+      "semestre": 5,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Matemáticas"
+    },
+    {
+      "nombre": "Máquinas y Equipos",
+      "sigla": "MI3138",
+      "semestre": 5,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Mecánica y Diseño"
+    },
+    {
+      "nombre": "Estudio del Trabajo II",
+      "sigla": "PI3308",
+      "semestre": 5,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Computación Industrial",
+      "sigla": "PI3407",
+      "semestre": 5,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Probabilidad y Estadística II",
+      "sigla": "PI3612",
+      "semestre": 5,
+      "creditos": 3,
+      "horas": 9,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Métodos Numéricos para Ingeniería",
+      "sigla": "CM3207",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Métodos Numéricos"
+    },
+    {
+      "nombre": "Ciencias de los Materiales",
+      "sigla": "ME2208",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Materiales"
+    },
+    {
+      "nombre": "Logística y Administración de la Cadena de Abastecimiento",
+      "sigla": "PI3206",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Sistema de Información",
+      "sigla": "PI3403",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Dirección de Personal",
+      "sigla": "PI3512",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Investigación de Operaciones I",
+      "sigla": "PI3603",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Control de Producción",
+      "sigla": "PI4303",
+      "semestre": 7,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Metrología y Normalización",
+      "sigla": "PI4306",
+      "semestre": 7,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Control de Calidad",
+      "sigla": "PI4307",
+      "semestre": 7,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Planeación y Diseño de Instalaciones",
+      "sigla": "PI4309",
+      "semestre": 7,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Análisis Económico",
+      "sigla": "PI4505",
+      "semestre": 7,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Seminario de Estudios Costarricenses",
+      "sigla": "CS4402",
+      "semestre": 8,
+      "creditos": 2,
+      "horas": 3,
+      "area": "Ciencias Sociales"
+    },
+    {
+      "nombre": "Electiva I",
+      "sigla": "PI4308",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Administración de Proyectos",
+      "sigla": "PI4802",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Gestión de la Innovación",
+      "sigla": "PI4803",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Ingeniería de la Confiabilidad",
+      "sigla": "PI5707",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Seguridad y Salud Ocupacional",
+      "sigla": "SO4604",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Seguridad Ocupacional"
+    },
+    {
+      "nombre": "Diseño de Experimentos",
+      "sigla": "PI5302",
+      "semestre": 9,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Electiva II",
+      "sigla": "PI5303",
+      "semestre": 9,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Simulación Industrial",
+      "sigla": "PI5401",
+      "semestre": 9,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Automatización de Manufactura",
+      "sigla": "PI5402",
+      "semestre": 9,
+      "creditos": 4,
+      "horas": 3,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Diagnóstico Industrial",
+      "sigla": "PI5601",
+      "semestre": 9,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial"
+    },
+    {
+      "nombre": "Proyecto de Graduación",
+      "sigla": "PI5901",
+      "semestre": 10,
+      "creditos": 12,
+      "horas": 40,
+      "area": "Producción Industrial"
+    }
+  ],
+  "enlaces": [
+    {
+      "fuente": "CI0200",
+      "destino": "CI1230",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CI0202",
+      "destino": "CI1230",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CI1230",
+      "destino": "CI1231",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CI1107",
+      "destino": "CS2101",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "FI1101",
+      "destino": "FI1102",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "FI1201",
+      "destino": "FI1102",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MA1102",
+      "destino": "FI1102",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "FI1102",
+      "destino": "FI1202",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "FI1201",
+      "destino": "FI1202",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "FI1202",
+      "destino": "FI1102",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "FI1101",
+      "destino": "MA1102",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "MA1102",
+      "destino": "FI1101",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "MA0101",
+      "destino": "MA1102",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CS1502",
+      "destino": "PI3501",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MA0101",
+      "destino": "PI3501",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "QU1102",
+      "destino": "QU1107",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "QU1106",
+      "destino": "QU1107",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "QU1107",
+      "destino": "QU1104",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "QU1104",
+      "destino": "QU1107",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "QU1106",
+      "destino": "QU1102",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "QU1102",
+      "destino": "QU1106",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "MA1102",
+      "destino": "MA1103",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3501",
+      "destino": "PI3502",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CI1107",
+      "destino": "CS2101",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CS2101",
+      "destino": "CS2303",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "FI1101",
+      "destino": "FI2103",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MA1102",
+      "destino": "FI2103",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MA1103",
+      "destino": "MA2104",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "FI1101",
+      "destino": "MI2109",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "FI1201",
+      "destino": "MI2109",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MI2101",
+      "destino": "PI2304",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3501",
+      "destino": "PI2304",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI2304",
+      "destino": "PI2610",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "CA2125",
+      "destino": "PI2610",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MA1102",
+      "destino": "PI2610",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI2610",
+      "destino": "PI2304",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "CS2101",
+      "destino": "CS3404",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MA1103",
+      "destino": "MA2105",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MI2109",
+      "destino": "MI3138",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI2304",
+      "destino": "PI3308",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CA2125",
+      "destino": "PI3407",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CI1231",
+      "destino": "PI3407",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MA1103",
+      "destino": "PI3612",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI2610",
+      "destino": "PI3612",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MA2105",
+      "destino": "CM3207",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3407",
+      "destino": "CM3207",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "FI1102",
+      "destino": "ME2208",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "QU1107",
+      "destino": "ME2208",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3612",
+      "destino": "PI3206",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3206",
+      "destino": "PI3603",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "PI3407",
+      "destino": "PI3403",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CS2303",
+      "destino": "PI3512",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3308",
+      "destino": "PI3512",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MA2105",
+      "destino": "PI3603",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3603",
+      "destino": "PI3206",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "PI3206",
+      "destino": "PI4303",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3603",
+      "destino": "PI4303",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3308",
+      "destino": "PI4306",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4306",
+      "destino": "PI4307",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "PI3612",
+      "destino": "PI4307",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4307",
+      "destino": "PI4306",
+      "tipo": "correquisito"
+    },
+    {
+      "fuente": "PI3308",
+      "destino": "PI4309",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3308",
+      "destino": "PI4505",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3502",
+      "destino": "PI4505",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CS3404",
+      "destino": "CS4402",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4303",
+      "destino": "PI4308",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4307",
+      "destino": "PI4308",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4303",
+      "destino": "PI4802",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3512",
+      "destino": "PI4803",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4307",
+      "destino": "PI5707",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3308",
+      "destino": "SO4604",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI5707",
+      "destino": "PI5302",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4308",
+      "destino": "PI5303",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI3206",
+      "destino": "PI5401",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI5707",
+      "destino": "PI5401",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "MI3138",
+      "destino": "PI5402",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4306",
+      "destino": "PI5402",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4303",
+      "destino": "PI5601",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4802",
+      "destino": "PI5601",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "CS4402",
+      "destino": "PI5901",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI4308",
+      "destino": "PI5901",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI5302",
+      "destino": "PI5901",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI5303",
+      "destino": "PI5901",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI5401",
+      "destino": "PI5901",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI5402",
+      "destino": "PI5901",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "PI5601",
+      "destino": "PI5901",
+      "tipo": "requisito"
+    },
+    {
+      "fuente": "SO4604",
+      "destino": "PI5901",
+      "tipo": "requisito"
+    }
+  ]
+}

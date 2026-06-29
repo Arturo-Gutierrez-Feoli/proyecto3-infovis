@@ -1,0 +1,90 @@
+{# Plantilla InjaX: red de cursos del plan de estudios #}
+
+<svg width="{{width}}" height="{{height}}" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <marker id="flecha-req" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#555" />
+    </marker>
+    <marker id="flecha-correq" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#e07b39" />
+    </marker>
+  </defs>
+
+  <style>
+    .nodo-texto { font-family: sans-serif; font-size: 9px; fill: #fff; text-anchor: middle; font-weight: bold; }
+    .enlace-requisito { stroke: #555; stroke-width: 2; }
+    .enlace-correquisito { stroke: #e07b39; stroke-width: 2; stroke-dasharray: 5,4; }
+  </style>
+
+  {% for e in edges %}
+    {% set o = at(nodes, e.source) %}
+    {% set d = at(nodes, e.target) %}
+    {% if e.tipo == "correquisito" %}
+      <line class="enlace-correquisito" x1="{{o.x}}" y1="{{o.y}}" x2="{{d.x}}" y2="{{d.y}}" marker-end="url(#flecha-correq)" />
+    {% else %}
+      <line class="enlace-requisito" x1="{{o.x}}" y1="{{o.y}}" x2="{{d.x}}" y2="{{d.y}}" marker-end="url(#flecha-req)" />
+    {% endif %}
+  {% endfor %}
+
+  {% for n in nodes %}
+    {% if n.area == "Matemáticas" %}
+      {% set color = "#4e79a7" %}
+    {% else %}
+      {% if n.area == "Física" %}
+        {% set color = "#f28e2b" %}
+      {% else %}
+        {% if n.area == "Química" %}
+          {% set color = "#e15759" %}
+        {% else %}
+          {% if n.area == "Producción Industrial" %}
+            {% set color = "#76b7b2" %}
+          {% else %}
+            {% if n.area == "Mecánica y Diseño" %}
+              {% set color = "#59a14f" %}
+            {% else %}
+              {% if n.area == "Materiales" %}
+                {% set color = "#edc948" %}
+              {% else %}
+                {% if n.area == "Computación" %}
+                  {% set color = "#b07aa1" %}
+                {% else %}
+                  {% if n.area == "Métodos Numéricos" %}
+                    {% set color = "#ff9da7" %}
+                  {% else %}
+                    {% if n.area == "Ciencias Sociales" %}
+                      {% set color = "#9c755f" %}
+                    {% else %}
+                      {% if n.area == "Comunicación e Idiomas" %}
+                        {% set color = "#7a7a7a" %}
+                      {% else %}
+                        {% if n.area == "Formación Humanística" %}
+                          {% set color = "#86bcb6" %}
+                        {% else %}
+                          {% if n.area == "Actividades Culturales y Deportivas" %}
+                            {% set color = "#bd6b9e" %}
+                          {% else %}
+                            {% if n.area == "Seguridad Ocupacional" %}
+                              {% set color = "#499894" %}
+                            {% else %}
+                              {% set color = "#666666" %}
+                            {% endif %}
+                          {% endif %}
+                        {% endif %}
+                      {% endif %}
+                    {% endif %}
+                  {% endif %}
+                {% endif %}
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+    <g class="nodo">
+      <circle cx="{{n.x}}" cy="{{n.y}}" r="{{radio}}" fill="{{color}}" stroke="#222" stroke-width="1" />
+      <text class="nodo-texto" x="{{n.x}}" y="{{n.y + 3}}">{{n.sigla}}</text>
+    </g>
+  {% endfor %}
+
+</svg>

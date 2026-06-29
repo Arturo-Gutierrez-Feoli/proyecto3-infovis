@@ -1,0 +1,1065 @@
+{
+  "nodes": [
+    {
+      "sigla": "CI0200",
+      "nombre": "Examen Diagnóstico",
+      "semestre": 0,
+      "creditos": 0,
+      "horas": 0,
+      "area": "Comunicación e Idiomas",
+      "x": 70.0,
+      "y": 55
+    },
+    {
+      "sigla": "CI0202",
+      "nombre": "Inglés Básico",
+      "semestre": 0,
+      "creditos": 2,
+      "horas": 3,
+      "area": "Comunicación e Idiomas",
+      "x": 930.0,
+      "y": 55
+    },
+    {
+      "sigla": "CI1106",
+      "nombre": "Comunicación Escrita",
+      "semestre": 1,
+      "creditos": 2,
+      "horas": 6,
+      "area": "Comunicación e Idiomas",
+      "x": 70.0,
+      "y": 150
+    },
+    {
+      "sigla": "CI1230",
+      "nombre": "Inglés I",
+      "semestre": 1,
+      "creditos": 2,
+      "horas": 6,
+      "area": "Comunicación e Idiomas",
+      "x": 177.5,
+      "y": 150
+    },
+    {
+      "sigla": "CS1502",
+      "nombre": "Introducción a la Técnica Ciencia y Tecnología",
+      "semestre": 1,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Ciencias Sociales",
+      "x": 285.0,
+      "y": 150
+    },
+    {
+      "sigla": "MA0101",
+      "nombre": "Matemática General",
+      "semestre": 1,
+      "creditos": 2,
+      "horas": 5,
+      "area": "Matemáticas",
+      "x": 392.5,
+      "y": 150
+    },
+    {
+      "sigla": "MI2101",
+      "nombre": "Dibujo Técnico",
+      "semestre": 1,
+      "creditos": 3,
+      "horas": 9,
+      "area": "Mecánica y Diseño",
+      "x": 500.0,
+      "y": 150
+    },
+    {
+      "sigla": "QU1102",
+      "nombre": "Laboratorio de Química Básica I",
+      "semestre": 1,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Química",
+      "x": 607.5,
+      "y": 150
+    },
+    {
+      "sigla": "QU1106",
+      "nombre": "Química Básica I",
+      "semestre": 1,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Química",
+      "x": 715.0,
+      "y": 150
+    },
+    {
+      "sigla": "SE1100",
+      "nombre": "Actividad Cultural I",
+      "semestre": 1,
+      "creditos": 0,
+      "horas": 2,
+      "area": "Actividades Culturales y Deportivas",
+      "x": 822.5,
+      "y": 150
+    },
+    {
+      "sigla": "SE1200",
+      "nombre": "Actividad Deportiva I",
+      "semestre": 1,
+      "creditos": 0,
+      "horas": 2,
+      "area": "Actividades Culturales y Deportivas",
+      "x": 930.0,
+      "y": 150
+    },
+    {
+      "sigla": "CI1107",
+      "nombre": "Comunicación Oral",
+      "semestre": 2,
+      "creditos": 1,
+      "horas": 3,
+      "area": "Comunicación e Idiomas",
+      "x": 392.5,
+      "y": 245
+    },
+    {
+      "sigla": "CI1231",
+      "nombre": "Inglés II",
+      "semestre": 2,
+      "creditos": 2,
+      "horas": 3,
+      "area": "Comunicación e Idiomas",
+      "x": 70.0,
+      "y": 245
+    },
+    {
+      "sigla": "FH1000",
+      "nombre": "Centros de Formación Humanística",
+      "semestre": 2,
+      "creditos": 0,
+      "horas": 2,
+      "area": "Formación Humanística",
+      "x": 500.0,
+      "y": 245
+    },
+    {
+      "sigla": "FI1101",
+      "nombre": "Física General I",
+      "semestre": 2,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Física",
+      "x": 607.5,
+      "y": 245
+    },
+    {
+      "sigla": "FI1201",
+      "nombre": "Laboratorio Física General I",
+      "semestre": 2,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Física",
+      "x": 715.0,
+      "y": 245
+    },
+    {
+      "sigla": "MA1102",
+      "nombre": "Cálculo Diferencial e Integral",
+      "semestre": 2,
+      "creditos": 4,
+      "horas": 5,
+      "area": "Matemáticas",
+      "x": 285.0,
+      "y": 245
+    },
+    {
+      "sigla": "PI3501",
+      "nombre": "Costos Industriales I",
+      "semestre": 2,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial",
+      "x": 177.5,
+      "y": 245
+    },
+    {
+      "sigla": "QU1104",
+      "nombre": "Laboratorio de Química Básica II",
+      "semestre": 2,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Química",
+      "x": 822.5,
+      "y": 245
+    },
+    {
+      "sigla": "QU1107",
+      "nombre": "Química Básica II",
+      "semestre": 2,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Química",
+      "x": 930.0,
+      "y": 245
+    },
+    {
+      "sigla": "CA2125",
+      "nombre": "Elementos de Computación",
+      "semestre": 3,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Computación",
+      "x": 500.0,
+      "y": 340
+    },
+    {
+      "sigla": "CS2101",
+      "nombre": "Ambiente Humano",
+      "semestre": 3,
+      "creditos": 2,
+      "horas": 6,
+      "area": "Ciencias Sociales",
+      "x": 356.7,
+      "y": 340
+    },
+    {
+      "sigla": "FI1102",
+      "nombre": "Física General II",
+      "semestre": 3,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Física",
+      "x": 786.7,
+      "y": 340
+    },
+    {
+      "sigla": "FI1202",
+      "nombre": "Laboratorio Física General II",
+      "semestre": 3,
+      "creditos": 1,
+      "horas": 2,
+      "area": "Física",
+      "x": 930.0,
+      "y": 340
+    },
+    {
+      "sigla": "MA1103",
+      "nombre": "Cálculo y Álgebra Lineal",
+      "semestre": 3,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Matemáticas",
+      "x": 213.3,
+      "y": 340
+    },
+    {
+      "sigla": "PI3502",
+      "nombre": "Costos Industriales II",
+      "semestre": 3,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial",
+      "x": 70.0,
+      "y": 340
+    },
+    {
+      "sigla": "SE1400",
+      "nombre": "Actividad Cultural-Deportiva",
+      "semestre": 3,
+      "creditos": 0,
+      "horas": 2,
+      "area": "Actividades Culturales y Deportivas",
+      "x": 643.3,
+      "y": 340
+    },
+    {
+      "sigla": "CS2303",
+      "nombre": "Relaciones Laborales",
+      "semestre": 4,
+      "creditos": 2,
+      "horas": 6,
+      "area": "Ciencias Sociales",
+      "x": 414.0,
+      "y": 435
+    },
+    {
+      "sigla": "FI2103",
+      "nombre": "Física General III",
+      "semestre": 4,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Física",
+      "x": 758.0,
+      "y": 435
+    },
+    {
+      "sigla": "MA2104",
+      "nombre": "Cálculo Superior",
+      "semestre": 4,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Matemáticas",
+      "x": 70.0,
+      "y": 435
+    },
+    {
+      "sigla": "MI2109",
+      "nombre": "Estática",
+      "semestre": 4,
+      "creditos": 3,
+      "horas": 9,
+      "area": "Mecánica y Diseño",
+      "x": 930.0,
+      "y": 435
+    },
+    {
+      "sigla": "PI2304",
+      "nombre": "Estudio del Trabajo I",
+      "semestre": 4,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 242.0,
+      "y": 435
+    },
+    {
+      "sigla": "PI2610",
+      "nombre": "Probabilidad y Estadística I",
+      "semestre": 4,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 586.0,
+      "y": 435
+    },
+    {
+      "sigla": "CS3404",
+      "nombre": "Seminario de Ética para la Ingeniería",
+      "semestre": 5,
+      "creditos": 2,
+      "horas": 5,
+      "area": "Ciencias Sociales",
+      "x": 586.0,
+      "y": 530
+    },
+    {
+      "sigla": "MA2105",
+      "nombre": "Ecuaciones Diferenciales",
+      "semestre": 5,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Matemáticas",
+      "x": 70.0,
+      "y": 530
+    },
+    {
+      "sigla": "MI3138",
+      "nombre": "Máquinas y Equipos",
+      "semestre": 5,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Mecánica y Diseño",
+      "x": 930.0,
+      "y": 530
+    },
+    {
+      "sigla": "PI3308",
+      "nombre": "Estudio del Trabajo II",
+      "semestre": 5,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 242.0,
+      "y": 530
+    },
+    {
+      "sigla": "PI3407",
+      "nombre": "Computación Industrial",
+      "semestre": 5,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial",
+      "x": 414.0,
+      "y": 530
+    },
+    {
+      "sigla": "PI3612",
+      "nombre": "Probabilidad y Estadística II",
+      "semestre": 5,
+      "creditos": 3,
+      "horas": 9,
+      "area": "Producción Industrial",
+      "x": 758.0,
+      "y": 530
+    },
+    {
+      "sigla": "CM3207",
+      "nombre": "Métodos Numéricos para Ingeniería",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Métodos Numéricos",
+      "x": 242.0,
+      "y": 625
+    },
+    {
+      "sigla": "ME2208",
+      "nombre": "Ciencias de los Materiales",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Materiales",
+      "x": 930.0,
+      "y": 625
+    },
+    {
+      "sigla": "PI3206",
+      "nombre": "Logística y Administración de la Cadena de Abastecimiento",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial",
+      "x": 758.0,
+      "y": 625
+    },
+    {
+      "sigla": "PI3403",
+      "nombre": "Sistema de Información",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial",
+      "x": 586.0,
+      "y": 625
+    },
+    {
+      "sigla": "PI3512",
+      "nombre": "Dirección de Personal",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 414.0,
+      "y": 625
+    },
+    {
+      "sigla": "PI3603",
+      "nombre": "Investigación de Operaciones I",
+      "semestre": 6,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 70.0,
+      "y": 625
+    },
+    {
+      "sigla": "PI4303",
+      "nombre": "Control de Producción",
+      "semestre": 7,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 715.0,
+      "y": 720
+    },
+    {
+      "sigla": "PI4306",
+      "nombre": "Metrología y Normalización",
+      "semestre": 7,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 285.0,
+      "y": 720
+    },
+    {
+      "sigla": "PI4307",
+      "nombre": "Control de Calidad",
+      "semestre": 7,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 930.0,
+      "y": 720
+    },
+    {
+      "sigla": "PI4309",
+      "nombre": "Planeación y Diseño de Instalaciones",
+      "semestre": 7,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 500.0,
+      "y": 720
+    },
+    {
+      "sigla": "PI4505",
+      "nombre": "Análisis Económico",
+      "semestre": 7,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 70.0,
+      "y": 720
+    },
+    {
+      "sigla": "CS4402",
+      "nombre": "Seminario de Estudios Costarricenses",
+      "semestre": 8,
+      "creditos": 2,
+      "horas": 3,
+      "area": "Ciencias Sociales",
+      "x": 414.0,
+      "y": 815
+    },
+    {
+      "sigla": "PI4308",
+      "nombre": "Electiva I",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Producción Industrial",
+      "x": 758.0,
+      "y": 815
+    },
+    {
+      "sigla": "PI4802",
+      "nombre": "Administración de Proyectos",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 586.0,
+      "y": 815
+    },
+    {
+      "sigla": "PI4803",
+      "nombre": "Gestión de la Innovación",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 242.0,
+      "y": 815
+    },
+    {
+      "sigla": "PI5707",
+      "nombre": "Ingeniería de la Confiabilidad",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 930.0,
+      "y": 815
+    },
+    {
+      "sigla": "SO4604",
+      "nombre": "Seguridad y Salud Ocupacional",
+      "semestre": 8,
+      "creditos": 3,
+      "horas": 3,
+      "area": "Seguridad Ocupacional",
+      "x": 70.0,
+      "y": 815
+    },
+    {
+      "sigla": "PI5302",
+      "nombre": "Diseño de Experimentos",
+      "semestre": 9,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 930.0,
+      "y": 910
+    },
+    {
+      "sigla": "PI5303",
+      "nombre": "Electiva II",
+      "semestre": 9,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 500.0,
+      "y": 910
+    },
+    {
+      "sigla": "PI5401",
+      "nombre": "Simulación Industrial",
+      "semestre": 9,
+      "creditos": 4,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 715.0,
+      "y": 910
+    },
+    {
+      "sigla": "PI5402",
+      "nombre": "Automatización de Manufactura",
+      "semestre": 9,
+      "creditos": 4,
+      "horas": 3,
+      "area": "Producción Industrial",
+      "x": 70.0,
+      "y": 910
+    },
+    {
+      "sigla": "PI5601",
+      "nombre": "Diagnóstico Industrial",
+      "semestre": 9,
+      "creditos": 3,
+      "horas": 4,
+      "area": "Producción Industrial",
+      "x": 285.0,
+      "y": 910
+    },
+    {
+      "sigla": "PI5901",
+      "nombre": "Proyecto de Graduación",
+      "semestre": 10,
+      "creditos": 12,
+      "horas": 40,
+      "area": "Producción Industrial",
+      "x": 500.0,
+      "y": 1005
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 3,
+      "tipo": "requisito"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "tipo": "requisito"
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "tipo": "requisito"
+    },
+    {
+      "source": 11,
+      "target": 21,
+      "tipo": "requisito"
+    },
+    {
+      "source": 14,
+      "target": 22,
+      "tipo": "requisito"
+    },
+    {
+      "source": 15,
+      "target": 22,
+      "tipo": "requisito"
+    },
+    {
+      "source": 16,
+      "target": 22,
+      "tipo": "requisito"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 15,
+      "target": 23,
+      "tipo": "requisito"
+    },
+    {
+      "source": 23,
+      "target": 22,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 16,
+      "target": 14,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 5,
+      "target": 16,
+      "tipo": "requisito"
+    },
+    {
+      "source": 4,
+      "target": 17,
+      "tipo": "requisito"
+    },
+    {
+      "source": 5,
+      "target": 17,
+      "tipo": "requisito"
+    },
+    {
+      "source": 7,
+      "target": 19,
+      "tipo": "requisito"
+    },
+    {
+      "source": 8,
+      "target": 19,
+      "tipo": "requisito"
+    },
+    {
+      "source": 19,
+      "target": 18,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 16,
+      "target": 24,
+      "tipo": "requisito"
+    },
+    {
+      "source": 17,
+      "target": 25,
+      "tipo": "requisito"
+    },
+    {
+      "source": 11,
+      "target": 21,
+      "tipo": "requisito"
+    },
+    {
+      "source": 21,
+      "target": 27,
+      "tipo": "requisito"
+    },
+    {
+      "source": 14,
+      "target": 28,
+      "tipo": "requisito"
+    },
+    {
+      "source": 16,
+      "target": 28,
+      "tipo": "requisito"
+    },
+    {
+      "source": 24,
+      "target": 29,
+      "tipo": "requisito"
+    },
+    {
+      "source": 14,
+      "target": 30,
+      "tipo": "requisito"
+    },
+    {
+      "source": 15,
+      "target": 30,
+      "tipo": "requisito"
+    },
+    {
+      "source": 6,
+      "target": 31,
+      "tipo": "requisito"
+    },
+    {
+      "source": 17,
+      "target": 31,
+      "tipo": "requisito"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 20,
+      "target": 32,
+      "tipo": "requisito"
+    },
+    {
+      "source": 16,
+      "target": 32,
+      "tipo": "requisito"
+    },
+    {
+      "source": 32,
+      "target": 31,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 21,
+      "target": 33,
+      "tipo": "requisito"
+    },
+    {
+      "source": 24,
+      "target": 34,
+      "tipo": "requisito"
+    },
+    {
+      "source": 30,
+      "target": 35,
+      "tipo": "requisito"
+    },
+    {
+      "source": 31,
+      "target": 36,
+      "tipo": "requisito"
+    },
+    {
+      "source": 20,
+      "target": 37,
+      "tipo": "requisito"
+    },
+    {
+      "source": 12,
+      "target": 37,
+      "tipo": "requisito"
+    },
+    {
+      "source": 24,
+      "target": 38,
+      "tipo": "requisito"
+    },
+    {
+      "source": 32,
+      "target": 38,
+      "tipo": "requisito"
+    },
+    {
+      "source": 34,
+      "target": 39,
+      "tipo": "requisito"
+    },
+    {
+      "source": 37,
+      "target": 39,
+      "tipo": "requisito"
+    },
+    {
+      "source": 22,
+      "target": 40,
+      "tipo": "requisito"
+    },
+    {
+      "source": 19,
+      "target": 40,
+      "tipo": "requisito"
+    },
+    {
+      "source": 38,
+      "target": 41,
+      "tipo": "requisito"
+    },
+    {
+      "source": 41,
+      "target": 44,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 37,
+      "target": 42,
+      "tipo": "requisito"
+    },
+    {
+      "source": 27,
+      "target": 43,
+      "tipo": "requisito"
+    },
+    {
+      "source": 36,
+      "target": 43,
+      "tipo": "requisito"
+    },
+    {
+      "source": 34,
+      "target": 44,
+      "tipo": "requisito"
+    },
+    {
+      "source": 44,
+      "target": 41,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 41,
+      "target": 45,
+      "tipo": "requisito"
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "tipo": "requisito"
+    },
+    {
+      "source": 36,
+      "target": 46,
+      "tipo": "requisito"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 38,
+      "target": 47,
+      "tipo": "requisito"
+    },
+    {
+      "source": 47,
+      "target": 46,
+      "tipo": "correquisito"
+    },
+    {
+      "source": 36,
+      "target": 48,
+      "tipo": "requisito"
+    },
+    {
+      "source": 36,
+      "target": 49,
+      "tipo": "requisito"
+    },
+    {
+      "source": 25,
+      "target": 49,
+      "tipo": "requisito"
+    },
+    {
+      "source": 33,
+      "target": 50,
+      "tipo": "requisito"
+    },
+    {
+      "source": 45,
+      "target": 51,
+      "tipo": "requisito"
+    },
+    {
+      "source": 47,
+      "target": 51,
+      "tipo": "requisito"
+    },
+    {
+      "source": 45,
+      "target": 52,
+      "tipo": "requisito"
+    },
+    {
+      "source": 43,
+      "target": 53,
+      "tipo": "requisito"
+    },
+    {
+      "source": 47,
+      "target": 54,
+      "tipo": "requisito"
+    },
+    {
+      "source": 36,
+      "target": 55,
+      "tipo": "requisito"
+    },
+    {
+      "source": 54,
+      "target": 56,
+      "tipo": "requisito"
+    },
+    {
+      "source": 51,
+      "target": 57,
+      "tipo": "requisito"
+    },
+    {
+      "source": 41,
+      "target": 58,
+      "tipo": "requisito"
+    },
+    {
+      "source": 54,
+      "target": 58,
+      "tipo": "requisito"
+    },
+    {
+      "source": 35,
+      "target": 59,
+      "tipo": "requisito"
+    },
+    {
+      "source": 46,
+      "target": 59,
+      "tipo": "requisito"
+    },
+    {
+      "source": 45,
+      "target": 60,
+      "tipo": "requisito"
+    },
+    {
+      "source": 52,
+      "target": 60,
+      "tipo": "requisito"
+    },
+    {
+      "source": 50,
+      "target": 61,
+      "tipo": "requisito"
+    },
+    {
+      "source": 51,
+      "target": 61,
+      "tipo": "requisito"
+    },
+    {
+      "source": 56,
+      "target": 61,
+      "tipo": "requisito"
+    },
+    {
+      "source": 57,
+      "target": 61,
+      "tipo": "requisito"
+    },
+    {
+      "source": 58,
+      "target": 61,
+      "tipo": "requisito"
+    },
+    {
+      "source": 59,
+      "target": 61,
+      "tipo": "requisito"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "tipo": "requisito"
+    },
+    {
+      "source": 55,
+      "target": 61,
+      "tipo": "requisito"
+    }
+  ],
+  "directed": true,
+  "width": 1000,
+  "height": 1060,
+  "radio": 18
+}
